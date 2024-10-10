@@ -1,0 +1,4459 @@
+{
+  "package": {
+    "name": "Domain Names Extensons List in JSON Format",
+    "version": "1.0",
+    "author": "Masoud Haghi (@masoudhaghi) <info@masoudhaghi.com>",
+    "copyright": "2024 Masoud Haghi",
+    "source": "https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains"
+  },
+  "data": [
+    {
+      "Name": ".com",
+      "Entity": "commercial"
+    },
+    {
+      "Name": ".org",
+      "Entity": "organization"
+    },
+    {
+      "Name": ".net",
+      "Entity": "network"
+    },
+    {
+      "Name": ".int",
+      "Entity": "international"
+    },
+    {
+      "Name": ".edu",
+      "Entity": "education"
+    },
+    {
+      "Name": ".gov",
+      "Entity": "U.S. national and state government agencies"
+    },
+    {
+      "Name": ".mil",
+      "Entity": "U.S. military"
+    },
+    {
+      "Name": ".arpa",
+      "Entity": "\"\"Address and Routing Parameter Area\"\""
+    },
+    {
+      "Name": ".ice",
+      "Entity": ""
+    },
+    {
+      "Name": ".icu",
+      "Entity": "entrepreneurs and business owners"
+    },
+    {
+      "Name": ".inc",
+      "Entity": "Corporations"
+    },
+    {
+      "Name": ".industries",
+      "Entity": "Machine or equipment manufacturers, manufacturers, tech or biotech companies, professional associations, businesses with “industries” in their names"
+    },
+    {
+      "Name": ".info",
+      "Entity": "information"
+    },
+    {
+      "Name": ".ing",
+      "Entity": "Verbal suffix: e.g., \"\"jump.ing\"\""
+    },
+    {
+      "Name": ".ink",
+      "Entity": "creative printing or tattooing"
+    },
+    {
+      "Name": ".institute",
+      "Entity": "Educational institutions, training programs, foundations, research organizations, military schools"
+    },
+    {
+      "Name": ".insurance",
+      "Entity": "insurance companies"
+    },
+    {
+      "Name": ".insure",
+      "Entity": "Insurance companies (life, auto, homeowners, renters), insurance divisions of larger companies (car rentals, warranties), insurance brokers & advisors"
+    },
+    {
+      "Name": ".international",
+      "Entity": "Any organization with an international presence, international consultants, import/export businesses, international travel organizations"
+    },
+    {
+      "Name": ".investments",
+      "Entity": "Investment services (institutional, private), wealth management services, financial planners, brokerage firms"
+    },
+    {
+      "Name": ".irish",
+      "Entity": "Airline-related products or services, domestic/International travel agencies, resources & services, travel writers & bloggers, Ireland travel guides & resource sites, seasonal opportunities (St. Patrick's Day)"
+    },
+    {
+      "Name": ".jewelry",
+      "Entity": "Jewelers, jewelry buyers, online retailers, department stores"
+    },
+    {
+      "Name": ".jobs",
+      "Entity": "Employment"
+    },
+    {
+      "Name": ".joy",
+      "Entity": ""
+    },
+    {
+      "Name": ".kim",
+      "Entity": "Kim (Korean surname)"
+    },
+    {
+      "Name": ".kitchen",
+      "Entity": "Restaurants, cafes, & delis, food stands & mobile vendors, meal services & personal chefs, kitchen supply stores, food blogs & recipe sites"
+    },
+    {
+      "Name": ".kosher",
+      "Entity": "Kosher food certification and regulations"
+    },
+    {
+      "Name": ".kpn",
+      "Entity": "Dutch Telecom Company"
+    },
+    {
+      "Name": ".land",
+      "Entity": "Real estate brokers and agents, residential/commercial land developers, home builders, mortgage companies, traditional “classified” sites"
+    },
+    {
+      "Name": ".lat",
+      "Entity": "Latin American communities and users"
+    },
+    {
+      "Name": ".law",
+      "Entity": "practitioners and educators in law"
+    },
+    {
+      "Name": ".lawyer",
+      "Entity": "Independent attorneys and law firms of any size, legal services entities, elected officials and judges, professional organizations, law students"
+    },
+    {
+      "Name": ".lease",
+      "Entity": "Real estate brokers/agents, property managers, condo/apartment developers, real estate law firms"
+    },
+    {
+      "Name": ".leclerc",
+      "Entity": ""
+    },
+    {
+      "Name": ".legal",
+      "Entity": "Attorneys, lawyers & law firms, corporate legal teams, paralegals, legal advocates, committees, associations and interest groups associated with the law"
+    },
+    {
+      "Name": ".lgbt",
+      "Entity": "the lesbian, gay, bisexual and transgender community"
+    },
+    {
+      "Name": ".life",
+      "Entity": "Wellness and health experts, charities, coaches & personal development enthusiasts, lifestyle bloggers, anyone who wants to share personal stories"
+    },
+    {
+      "Name": ".lifeinsurance",
+      "Entity": "life insurance"
+    },
+    {
+      "Name": ".lighting",
+      "Entity": "Lighting & lighting repair shops, lighting departments within home supply stores, contractors, commercial/residential architects, DIYers"
+    },
+    {
+      "Name": ".like",
+      "Entity": ""
+    },
+    {
+      "Name": ".limited",
+      "Entity": "Private companies, limited by shares, limited companies, businesses with “limited” or “LTD” in their names, specialty products and services, businesses that sell limited-quantity products"
+    },
+    {
+      "Name": ".limo",
+      "Entity": "Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, lodging, weddings, party and occasion-related services"
+    },
+    {
+      "Name": ".link",
+      "Entity": "connecting to information"
+    },
+    {
+      "Name": ".live",
+      "Entity": "Live streaming sites, entertainment/music venues, news sites/blogs, ticket sale/resale sites, video production companies"
+    },
+    {
+      "Name": ".living",
+      "Entity": ""
+    },
+    {
+      "Name": ".loan",
+      "Entity": "banks and lenders"
+    },
+    {
+      "Name": ".loans",
+      "Entity": "Mortgage companies, personal loan agencies, auto loan agencies & car dealerships, credit consolidation services"
+    },
+    {
+      "Name": ".locker",
+      "Entity": ""
+    },
+    {
+      "Name": ".lol",
+      "Entity": "LOL: laughing out loud (humorous or comedic content)"
+    },
+    {
+      "Name": ".lotto",
+      "Entity": "lottery"
+    },
+    {
+      "Name": ".love",
+      "Entity": "dating sites"
+    },
+    {
+      "Name": ".ltd",
+      "Entity": "Private companies, limited by shares, limited companies, businesses with “limited” or “LTD” in their names, specialty products and services, businesses that sell limited-quantity products"
+    },
+    {
+      "Name": ".luxury",
+      "Entity": "businesses catering to the wealthy"
+    },
+    {
+      "Name": ".makeup",
+      "Entity": ""
+    },
+    {
+      "Name": ".management",
+      "Entity": "Property managers, wealth management firms, money management, systems & network managers, leadership teams"
+    },
+    {
+      "Name": ".map",
+      "Entity": "maps and navigation"
+    },
+    {
+      "Name": ".market",
+      "Entity": "Online retailers, independent or chain grocery stores, buyer and seller communities, discount sites & coupon sites"
+    },
+    {
+      "Name": ".marketing",
+      "Entity": "Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), staffing agencies, marketing consultants"
+    },
+    {
+      "Name": ".markets",
+      "Entity": ""
+    },
+    {
+      "Name": ".mba",
+      "Entity": "Colleges, universities, & graduate programs, online educational sites, job search sites, MBA candidates"
+    },
+    {
+      "Name": ".med",
+      "Entity": "medicine and related topics"
+    },
+    {
+      "Name": ".media",
+      "Entity": "Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), news outlets, media bloggers, celebrity publications, digital publishers & graphic designers"
+    },
+    {
+      "Name": ".meet",
+      "Entity": "social gatherings, meeting new people"
+    },
+    {
+      "Name": ".meme",
+      "Entity": "Internet memes"
+    },
+    {
+      "Name": ".memorial",
+      "Entity": "News site obituaries, personal tribute sites, floral & funeral arrangement companies"
+    },
+    {
+      "Name": ".men",
+      "Entity": "men"
+    },
+    {
+      "Name": ".menu",
+      "Entity": "restaurants"
+    },
+    {
+      "Name": ".mint",
+      "Entity": ""
+    },
+    {
+      "Name": ".mobi",
+      "Entity": "mobile devices"
+    },
+    {
+      "Name": ".mobile",
+      "Entity": ""
+    },
+    {
+      "Name": ".mobily",
+      "Entity": ""
+    },
+    {
+      "Name": ".moda",
+      "Entity": "For people and organizations interested and engaged in the world of fashion and style."
+    },
+    {
+      "Name": ".moe",
+      "Entity": "Japanese otaku culture; see moe (slang)"
+    },
+    {
+      "Name": ".mom",
+      "Entity": "mothers"
+    },
+    {
+      "Name": ".money",
+      "Entity": "Lenders, financial services businesses, money blogs & news sites, investment bankers & brokers, financial planners & experts"
+    },
+    {
+      "Name": ".monster",
+      "Entity": ""
+    },
+    {
+      "Name": ".mortgage",
+      "Entity": "Mortgage brokers, real estate brokers/agents, home buyers, traditional “classified” sites"
+    },
+    {
+      "Name": ".motorcycles",
+      "Entity": "motorcycles"
+    },
+    {
+      "Name": ".mov",
+      "Entity": "digital video"
+    },
+    {
+      "Name": ".movie",
+      "Entity": "Streaming movie services, movie studios & distributors, movie theaters & entertainment outlets, ticket sale/resale sites, movie review sites"
+    },
+    {
+      "Name": ".museum",
+      "Entity": "museums"
+    },
+    {
+      "Name": ".music",
+      "Entity": "Music dissemination and appreciation"
+    },
+    {
+      "Name": ".name",
+      "Entity": "individuals, by name"
+    },
+    {
+      "Name": ".navy",
+      "Entity": "Naval training schools, navy supply stores, military recruiters, credit unions, navy members and veterans"
+    },
+    {
+      "Name": ".network",
+      "Entity": "IT professionals, tech consultants, career sites, industry-specific professional groups, social networks"
+    },
+    {
+      "Name": ".new",
+      "Entity": "Websites where people can create something"
+    },
+    {
+      "Name": ".news",
+      "Entity": "News organizations, educational publications, trade publications, neighborhood news blogs"
+    },
+    {
+      "Name": ".nexus",
+      "Entity": ""
+    },
+    {
+      "Name": ".ngo",
+      "Entity": "Non-governmental organizations."
+    },
+    {
+      "Name": ".ninja",
+      "Entity": "Sites promoting specialized skills, repair services (auto, appliance, etc.), gaming sites, martial arts organizations"
+    },
+    {
+      "Name": ".now",
+      "Entity": ""
+    },
+    {
+      "Name": ".ntt",
+      "Entity": ""
+    },
+    {
+      "Name": ".observer",
+      "Entity": ""
+    },
+    {
+      "Name": ".org",
+      "Entity": "general"
+    },
+    {
+      "Name": ".one",
+      "Entity": "general"
+    },
+    {
+      "Name": ".ong",
+      "Entity": "Non-governmental organizations."
+    },
+    {
+      "Name": ".onl",
+      "Entity": "generic"
+    },
+    {
+      "Name": ".online",
+      "Entity": "generic"
+    },
+    {
+      "Name": ".ooo",
+      "Entity": "general"
+    },
+    {
+      "Name": ".open",
+      "Entity": "private to the \"\"Registry Operator and its qualified Affiliates and Trademark Licensees\"\""
+    },
+    {
+      "Name": ".organic",
+      "Entity": "organic gardeners, farmers, foods, etc."
+    },
+    {
+      "Name": ".origins",
+      "Entity": ""
+    },
+    {
+      "Name": ".page",
+      "Entity": ""
+    },
+    {
+      "Name": ".partners",
+      "Entity": "Law firms, real estate agencies, investment firms, accounting firms, nonprofit organizations"
+    },
+    {
+      "Name": ".parts",
+      "Entity": "Appliance wholesalers & service, tool rentals & service businesses, auto/boat/heavy equipment businesses"
+    },
+    {
+      "Name": ".party",
+      "Entity": "nightclubs and social gatherings or political parties"
+    },
+    {
+      "Name": ".pay",
+      "Entity": "electronic payments"
+    },
+    {
+      "Name": ".pet",
+      "Entity": "animals and pets"
+    },
+    {
+      "Name": ".pharmacy",
+      "Entity": "pharmacies"
+    },
+    {
+      "Name": ".phone",
+      "Entity": "telephone-related businesses"
+    },
+    {
+      "Name": ".photo",
+      "Entity": "photography and photo-sharing"
+    },
+    {
+      "Name": ".photography",
+      "Entity": "Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online"
+    },
+    {
+      "Name": ".photos",
+      "Entity": "Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online"
+    },
+    {
+      "Name": ".physio",
+      "Entity": "physical therapists"
+    },
+    {
+      "Name": ".pics",
+      "Entity": "photography and photo-sharing"
+    },
+    {
+      "Name": ".pictures",
+      "Entity": "Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online"
+    },
+    {
+      "Name": ".pid",
+      "Entity": "personal identification"
+    },
+    {
+      "Name": ".pin",
+      "Entity": ""
+    },
+    {
+      "Name": ".pink",
+      "Entity": "those who like the color pink"
+    },
+    {
+      "Name": ".pizza",
+      "Entity": "Pizzerias, take & bake pizza shops, Italian or Greek restaurants, pizza brands found in grocery stores"
+    },
+    {
+      "Name": ".place",
+      "Entity": "Airline-related products or services, travel agencies, resources & services, travel writers & bloggers, tourist attractions, hotels, hostels, B&Bs, lodging"
+    },
+    {
+      "Name": ".plumbing",
+      "Entity": "Plumbers & plumbing repair businesses, plumbing departments within home supply stores, contractors/subcontractors, DIYers"
+    },
+    {
+      "Name": ".plus",
+      "Entity": "Consumer commodity stores & sites, clothing (plus, big & tall), service-based businesses, any entity wanting to show their competitive advantage"
+    },
+    {
+      "Name": ".poker",
+      "Entity": "Poker players and sites"
+    },
+    {
+      "Name": ".porn",
+      "Entity": "adult entertainment (pornography)"
+    },
+    {
+      "Name": ".post",
+      "Entity": "postal services"
+    },
+    {
+      "Name": ".press",
+      "Entity": "publishing and journalism"
+    },
+    {
+      "Name": ".prime",
+      "Entity": ""
+    },
+    {
+      "Name": ".pro",
+      "Entity": "professions/professionals"
+    },
+    {
+      "Name": ".productions",
+      "Entity": "Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), video production services, anyone in the film industry"
+    },
+    {
+      "Name": ".prof",
+      "Entity": "Professors, teachers and learning"
+    },
+    {
+      "Name": ".promo",
+      "Entity": "advertising"
+    },
+    {
+      "Name": ".properties",
+      "Entity": "Real estate brokers/agents, residential/Commercial land developers, property (condo/apartment) managers, home builders, mortgage companies"
+    },
+    {
+      "Name": ".property",
+      "Entity": "real estate"
+    },
+    {
+      "Name": ".protection",
+      "Entity": "security"
+    },
+    {
+      "Name": ".pub",
+      "Entity": "Pubs, bars & nightclubs, burger joints, breweries & taphouses, beer distributors, restaurant & bar suppliers publications"
+    },
+    {
+      "Name": ".qpon",
+      "Entity": "coupons"
+    },
+    {
+      "Name": ".quebec",
+      "Entity": "People and businesses in Quebec"
+    },
+    {
+      "Name": ".racing",
+      "Entity": "racing"
+    },
+    {
+      "Name": ".radio",
+      "Entity": "radio stations, amateur radio operators"
+    },
+    {
+      "Name": ".read",
+      "Entity": ""
+    },
+    {
+      "Name": ".realestate",
+      "Entity": "real estate"
+    },
+    {
+      "Name": ".realtor",
+      "Entity": "realtors"
+    },
+    {
+      "Name": ".realty",
+      "Entity": "realty and housing"
+    },
+    {
+      "Name": ".recipes",
+      "Entity": "Recipe sites, food & beverage grocery brands, health & fitness organizations, cooking enthusiasts, personal/professional chefs"
+    },
+    {
+      "Name": ".red",
+      "Entity": "those who like the color red\nAlso Spanish variant of .net\nAlso likely to be attractive for domain hacks for words that end with '-red'."
+    },
+    {
+      "Name": ".rehab",
+      "Entity": "Physical and occupational therapists and professionals, drug, alcohol and gambling addiction counselors, rehabilitation facilities and recovery centers, online health directories, physical or emotional health associations"
+    },
+    {
+      "Name": ".reit",
+      "Entity": "real estate investment trusts"
+    },
+    {
+      "Name": ".rent",
+      "Entity": "Real estate professionals and small businesses"
+    },
+    {
+      "Name": ".rentals",
+      "Entity": "Real estate brokers/agents, city guides, college housing centers, & community centers, vehicle, equipment, or entertainment/event rentals, property managers, condo/apartment developers"
+    },
+    {
+      "Name": ".repair",
+      "Entity": "General or specialty repair shops, construction contractors/subcontractors, DIYers, appliance wholesalers & service, auto/boat businesses"
+    },
+    {
+      "Name": ".report",
+      "Entity": "News and current events sites, financial reporting sites, financial or business analysts, consumer product reviews, police, school, or other community report listings"
+    },
+    {
+      "Name": ".republican",
+      "Entity": "Political candidates, lobbyists, political parties, fundraising organizations"
+    },
+    {
+      "Name": ".rest",
+      "Entity": "Restaurants and related industry"
+    },
+    {
+      "Name": ".restaurant",
+      "Entity": "Casual eateries, gourmet restaurants, suppliers, chains, review sites, reservation sites & services"
+    },
+    {
+      "Name": ".review",
+      "Entity": "public reviews"
+    },
+    {
+      "Name": ".reviews",
+      "Entity": "News media, food publications, travel publications, literary publications, any product & service with online reviews"
+    },
+    {
+      "Name": ".rich",
+      "Entity": "businesses catering to the wealthy"
+    },
+    {
+      "Name": ".rip",
+      "Entity": "Loved ones seeking to memorialize the deceased, funeral homes and cemeteries, businesses that support the funeral industry, obituary websites"
+    },
+    {
+      "Name": ".rocks",
+      "Entity": "Pop culture sites, niche and fan sites, musicians, gemstone & jewelry companies"
+    },
+    {
+      "Name": ".rodeo",
+      "Entity": "Rodeo interest"
+    },
+    {
+      "Name": ".room",
+      "Entity": "lodging or room design"
+    },
+    {
+      "Name": ".rugby",
+      "Entity": "rugby"
+    },
+    {
+      "Name": ".run",
+      "Entity": "Runners, running shoe retailers, specialty running gear shops, running event organizers"
+    },
+    {
+      "Name": ".academy",
+      "Entity": "Schools, military academies, online learning websites, PTAs and student portals, or any site created to be educational on a particular topic."
+    },
+    {
+      "Name": ".accountant",
+      "Entity": "Certified Public Accountants, tax advisors, corporate accountants, personal and business accountants, and professional CPA organizations."
+    },
+    {
+      "Name": ".accountants",
+      "Entity": "Accountants and accounting firms."
+    },
+    {
+      "Name": ".active",
+      "Entity": ""
+    },
+    {
+      "Name": ".actor",
+      "Entity": "Aspiring actors and their agents, theaters and movie studios, entertainment outlets, streaming video sites, movie review sites, and celebrity gossip sites."
+    },
+    {
+      "Name": ".ads",
+      "Entity": "advertising"
+    },
+    {
+      "Name": ".adult",
+      "Entity": "Sites providing sexually explicit content, such as pornography."
+    },
+    {
+      "Name": ".aero",
+      "Entity": "Air-transport industry."
+    },
+    {
+      "Name": ".africa",
+      "Entity": "African and pan-African topics, African Union"
+    },
+    {
+      "Name": ".agency",
+      "Entity": "Marketing and advertising agencies, PR or communications agencies, design firms, talent agencies, travel agencies, and other related agencies."
+    },
+    {
+      "Name": ".airforce",
+      "Entity": "Military recruiters, flight training schools, supply companies, military aircraft suppliers and repair companies, and Air Force members and veterans."
+    },
+    {
+      "Name": ".amazon",
+      "Entity": ""
+    },
+    {
+      "Name": ".analytics",
+      "Entity": ""
+    },
+    {
+      "Name": ".apartments",
+      "Entity": "Property (apartment) managers, condominium/apartment developers, college websites/centers, and city guides and community centers."
+    },
+    {
+      "Name": ".app",
+      "Entity": "Apps."
+    },
+    {
+      "Name": ".apple",
+      "Entity": "Apple."
+    },
+    {
+      "Name": ".archi",
+      "Entity": "architects and architect firms"
+    },
+    {
+      "Name": ".army",
+      "Entity": "Military recruiter, army supply stores, military training schools, army members and veterans"
+    },
+    {
+      "Name": ".art",
+      "Entity": "artists, museums, art galleries, dealers, service providers and contractors"
+    },
+    {
+      "Name": ".arte",
+      "Entity": ""
+    },
+    {
+      "Name": ".associates",
+      "Entity": "Accountants, law firms, consulting firms, real estate agencies, health & medical groups"
+    },
+    {
+      "Name": ".attorney",
+      "Entity": "Independent attorneys and law firms of any size, legal services entities, elected officials and judges, professional organizations, law students"
+    },
+    {
+      "Name": ".auction",
+      "Entity": "Auction houses & online auctions, car and truck auction, B2B commodity auctions, charity auctions for non-profits and schools, buyer and seller communities"
+    },
+    {
+      "Name": ".audible",
+      "Entity": ""
+    },
+    {
+      "Name": ".audio",
+      "Entity": "stereo/sound systems, music"
+    },
+    {
+      "Name": ".author",
+      "Entity": ""
+    },
+    {
+      "Name": ".auto",
+      "Entity": "vehicles"
+    },
+    {
+      "Name": ".autos",
+      "Entity": "vehicles"
+    },
+    {
+      "Name": ".aws",
+      "Entity": ""
+    },
+    {
+      "Name": ".safe",
+      "Entity": "security and safety"
+    },
+    {
+      "Name": ".sale",
+      "Entity": "Online and brick-and-mortar retailers and wholesalers, automotive and motorcycle dealers, discount, flash sale, and deal websites, auction sites and individuals selling items they no longer need"
+    },
+    {
+      "Name": ".salon",
+      "Entity": "Hair salons, nail salons, beauty product companies, beauty schools"
+    },
+    {
+      "Name": ".save",
+      "Entity": ""
+    },
+    {
+      "Name": ".sbi",
+      "Entity": ""
+    },
+    {
+      "Name": ".scholarships",
+      "Entity": "scholarship related"
+    },
+    {
+      "Name": ".school",
+      "Entity": "Public schools, private & charter schools, specialty and trade schools, online learning sites, resource sites for teachers"
+    },
+    {
+      "Name": ".science",
+      "Entity": "science-related sites"
+    },
+    {
+      "Name": ".search",
+      "Entity": "search engines"
+    },
+    {
+      "Name": ".secure",
+      "Entity": "security"
+    },
+    {
+      "Name": ".security",
+      "Entity": ""
+    },
+    {
+      "Name": ".select",
+      "Entity": ""
+    },
+    {
+      "Name": ".services",
+      "Entity": "Service division of any company, home services (cleaning, landscaping, plumbing, pet care), business services (tech support, interior design, translation services), community service organizations"
+    },
+    {
+      "Name": ".sex",
+      "Entity": "adult entertainment (pornography)"
+    },
+    {
+      "Name": ".sexy",
+      "Entity": "adult entertainment"
+    },
+    {
+      "Name": ".shoes",
+      "Entity": "Shoe stores, department stores, online retailers, athletic shoe retailers, discount shoe stores"
+    },
+    {
+      "Name": ".shop",
+      "Entity": ""
+    },
+    {
+      "Name": ".shopping",
+      "Entity": "Online retailers, shopping centers, personal shoppers, discount sites & coupon sites, shopping blogs & product reviews"
+    },
+    {
+      "Name": ".show",
+      "Entity": "Ticket sale/resale sites, performance halls, music clubs/bars, streaming video services, movie review sites, travel sites & city guides"
+    },
+    {
+      "Name": ".showtime",
+      "Entity": ""
+    },
+    {
+      "Name": ".silk",
+      "Entity": ""
+    },
+    {
+      "Name": ".singles",
+      "Entity": "(Tickets) Ticket sale/resale sites, gaming agencies, movie review sites, city guides, sports sites (Dating) Dating & matchmaker sites, singles meetup groups, traditional “classified” sites, travel sites & city guides"
+    },
+    {
+      "Name": ".site",
+      "Entity": "general"
+    },
+    {
+      "Name": ".ski",
+      "Entity": "skiing"
+    },
+    {
+      "Name": ".skin",
+      "Entity": ""
+    },
+    {
+      "Name": ".sky",
+      "Entity": ""
+    },
+    {
+      "Name": ".sling",
+      "Entity": ""
+    },
+    {
+      "Name": ".smile",
+      "Entity": ""
+    },
+    {
+      "Name": ".sncf",
+      "Entity": ""
+    },
+    {
+      "Name": ".soccer",
+      "Entity": "Professional & amateur soccer clubs, soccer equipment suppliers & manufacturers, soccer & sports media networks, soccer players, enthusiasts, & spectators, soccer camps, coaches, & training organizations"
+    },
+    {
+      "Name": ".social",
+      "Entity": "Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), blogs & forums, event & meetup groups, any person or organization driving awareness of their social presence (Actual use also includes Fediverse services, such as Mastodon)"
+    },
+    {
+      "Name": ".software",
+      "Entity": "Software testing, support, & consulting companies, software product developers & manufacturers, software training & educational institutions, software resellers"
+    },
+    {
+      "Name": ".solar",
+      "Entity": "Renewable & sustainable energy producers, solar panel, roof tile, & storage producers, solar cell battery, chargers, lights, speakers, & generator manufacturers, sunglass, shades, UV clothing, sunblock & other solar protection products"
+    },
+    {
+      "Name": ".solutions",
+      "Entity": "SaaS providers, people who offer do-it-yourself tips and tutorials, consultants, any business focused on providing the right solutions to their customers’ problems."
+    },
+    {
+      "Name": ".song",
+      "Entity": ""
+    },
+    {
+      "Name": ".spa",
+      "Entity": "Spas"
+    },
+    {
+      "Name": ".space",
+      "Entity": "as a creative space"
+    },
+    {
+      "Name": ".spreadbetting",
+      "Entity": "Spread betting"
+    },
+    {
+      "Name": ".spot",
+      "Entity": ""
+    },
+    {
+      "Name": ".sport",
+      "Entity": "sport institutions"
+    },
+    {
+      "Name": ".srl",
+      "Entity": "Spanish/Italian/Romanian/French limited liability companies"
+    },
+    {
+      "Name": ".storage",
+      "Entity": "Self storage"
+    },
+    {
+      "Name": ".store",
+      "Entity": "stores"
+    },
+    {
+      "Name": ".stream",
+      "Entity": "streaming media"
+    },
+    {
+      "Name": ".studio",
+      "Entity": "Advertising/Marketing/PR/Design agencies, creative freelancers, other creative agencies (i.e., animation, production), dance, yoga, or fitness studios"
+    },
+    {
+      "Name": ".study",
+      "Entity": "education"
+    },
+    {
+      "Name": ".style",
+      "Entity": "Fashion bloggers, department stores, designers, online retailers"
+    },
+    {
+      "Name": ".sucks",
+      "Entity": "gripe sites"
+    },
+    {
+      "Name": ".supplies",
+      "Entity": "Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses, home services retailers"
+    },
+    {
+      "Name": ".supply",
+      "Entity": "Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses"
+    },
+    {
+      "Name": ".support",
+      "Entity": "IT/Tech support services, social services, customer service & support departments, independent consultants & consulting firms, staffing services"
+    },
+    {
+      "Name": ".surf",
+      "Entity": "surfing"
+    },
+    {
+      "Name": ".surgery",
+      "Entity": "Surgeons, primary/secondary care physicians, hospitals & clinics, healthcare providers, insurance providers"
+    },
+    {
+      "Name": ".systems",
+      "Entity": "IT businesses, other tech-focused businesses, businesses that sell electronics or home security systems, organizational consultants"
+    },
+    {
+      "Name": ".talk",
+      "Entity": ""
+    },
+    {
+      "Name": ".tattoo",
+      "Entity": "tattoo aficionados"
+    },
+    {
+      "Name": ".tax",
+      "Entity": "Accounting & bookkeeping firms, tax advisors, auditors, financial experts & advisors"
+    },
+    {
+      "Name": ".taxi",
+      "Entity": "Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging, tourist attractions"
+    },
+    {
+      "Name": ".team",
+      "Entity": "Professional & amateur sports teams, sports equipment suppliers & manufacturers, sports media, athletes & fans, clubs, online communities & business organizations"
+    },
+    {
+      "Name": ".tech",
+      "Entity": "technology"
+    },
+    {
+      "Name": ".technology",
+      "Entity": "Tech-focused businesses & tech startups, businesses that sell to tech companies, developers, coders, programmers, computer retailers, technology blogs, news sites, & review sites, hardware & software companies, R&D companies, tech product manufacturers"
+    },
+    {
+      "Name": ".tel",
+      "Entity": "internet communication services"
+    },
+    {
+      "Name": ".tennis",
+      "Entity": "Tennis courts, clubs & other venues, tennis equipment suppliers and retailers, professional & amateur tennis players, sports media"
+    },
+    {
+      "Name": ".theater",
+      "Entity": "Entertainment & movie theater outlets, live performance theaters, professional performer associations, movie review sites, travel sites & city guides"
+    },
+    {
+      "Name": ".theatre",
+      "Entity": "theatre"
+    },
+    {
+      "Name": ".tickets",
+      "Entity": "ticket resale"
+    },
+    {
+      "Name": ".tips",
+      "Entity": "Travel, hotel & hospitality companies, cooking & recipe publications, parenting & and relationship publications, manufacturers of any product with assembly instructions, publications that provide advice on gratuity practices around the world"
+    },
+    {
+      "Name": ".tires",
+      "Entity": "Tire wholesalers, tire retailers, auto repair shops"
+    },
+    {
+      "Name": ".today",
+      "Entity": "News & current event sites, websites that publish daily content, daily inspiration sites, sites with daily rotating deals or offers, anyone who wants to spur immediate action"
+    },
+    {
+      "Name": ".tools",
+      "Entity": "Tool shops, tool departments within home supply stores, contractors, subcontractors, construction-related businesses"
+    },
+    {
+      "Name": ".top",
+      "Entity": "general"
+    },
+    {
+      "Name": ".tours",
+      "Entity": "Airline-related products or services, travel agencies, resources & services, tourist attractions, outdoor adventure companies, private plane/helicopter tours & services"
+    },
+    {
+      "Name": ".town",
+      "Entity": "Travel agencies, resources & services, local business associations, city guides & resource sites, transportation businesses, hotels, hostels, B&Bs, lodging"
+    },
+    {
+      "Name": ".toys",
+      "Entity": "Toy stores, online retailers, department stores, game companies, sporting goods companies"
+    },
+    {
+      "Name": ".trade",
+      "Entity": "businesses"
+    },
+    {
+      "Name": ".trading",
+      "Entity": ""
+    },
+    {
+      "Name": ".training",
+      "Entity": "Personal trainers & nutrition coaches, gyms and fitness centers, sports medicine practitioners, business that sell sports gear or apparel, or fan merchandise, animal trainers, career or vocational training centers"
+    },
+    {
+      "Name": ".travel",
+      "Entity": "Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, destination resorts, hotels, hostels, B&Bs, lodging, any other travel or transportation business"
+    },
+    {
+      "Name": ".travelersinsurance",
+      "Entity": ""
+    },
+    {
+      "Name": ".trust",
+      "Entity": ""
+    },
+    {
+      "Name": ".tube",
+      "Entity": ""
+    },
+    {
+      "Name": ".tunes",
+      "Entity": ""
+    },
+    {
+      "Name": ".uconnect",
+      "Entity": ""
+    },
+    {
+      "Name": ".university",
+      "Entity": "Online universities, brick-and-mortar universities, university-related clubs & organizations"
+    },
+    {
+      "Name": ".uno",
+      "Entity": "general, Spanish and Italian speakers, Uno (card game)"
+    },
+    {
+      "Name": ".vacations",
+      "Entity": "Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, destination resorts, hotels, hostels, B&Bs, lodging"
+    },
+    {
+      "Name": ".ventures",
+      "Entity": "Venture capital investment firms, business financial services, business consultants, programs & services for entrepreneurs"
+    },
+    {
+      "Name": ".vet",
+      "Entity": "Veterinarians, veterinary clinics and hospitals, wholesale suppliers for veterinary supplies"
+    },
+    {
+      "Name": ".video",
+      "Entity": "Video production & media companies, videographers, video editors, script writers, & producers, streaming video sites services, creative agencies"
+    },
+    {
+      "Name": ".villas",
+      "Entity": "International real estate brokers/agents, international travel agencies, resources & services, travel writers & bloggers, traditional “classified” sites"
+    },
+    {
+      "Name": ".vin",
+      "Entity": "Wineries, wine shops & wine bars, wine distributors, wine clubs & online retailers, wine review sites and apps"
+    },
+    {
+      "Name": ".vip",
+      "Entity": "Very important persons"
+    },
+    {
+      "Name": ".vision",
+      "Entity": "Opticians & optometry clinics, healthcare providers, insurance provider, glasses retailers, online and brick & mortar"
+    },
+    {
+      "Name": ".vodka",
+      "Entity": "vodka-related businesses and interest"
+    },
+    {
+      "Name": ".volvo",
+      "Entity": ""
+    },
+    {
+      "Name": ".vote",
+      "Entity": "democratic elections and campaign websites"
+    },
+    {
+      "Name": ".voting",
+      "Entity": "polling sites"
+    },
+    {
+      "Name": ".voyage",
+      "Entity": "Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging"
+    },
+    {
+      "Name": ".wang",
+      "Entity": "general\nWǎng is a Chinese Mandarin pinyin rendering of 网 (traditional 網) meaning \"\"web\"\" or \"\"portal\"\".\nWang is also a common surname in mainland China."
+    },
+    {
+      "Name": ".watch",
+      "Entity": "Watchmakers, jewelry stores, watch repair shops, neighborhood watch groups"
+    },
+    {
+      "Name": ".watches",
+      "Entity": "watches"
+    },
+    {
+      "Name": ".weather",
+      "Entity": ""
+    },
+    {
+      "Name": ".webcam",
+      "Entity": "web cam shows and video sharing"
+    },
+    {
+      "Name": ".website",
+      "Entity": "general"
+    },
+    {
+      "Name": ".wed",
+      "Entity": "engaged couples and wedding-oriented businesses"
+    },
+    {
+      "Name": ".wedding",
+      "Entity": "wedding-oriented businesses"
+    },
+    {
+      "Name": ".whoswho",
+      "Entity": "Who's Who (general)"
+    },
+    {
+      "Name": ".wiki",
+      "Entity": "wikis"
+    },
+    {
+      "Name": ".win",
+      "Entity": "games, Microsoft Windows"
+    },
+    {
+      "Name": ".wine",
+      "Entity": "Wineries, wine bars, wine shops, wine distributors, wine clubs & online retailers, wine review sites"
+    },
+    {
+      "Name": ".winners",
+      "Entity": ""
+    },
+    {
+      "Name": ".work",
+      "Entity": "general"
+    },
+    {
+      "Name": ".works",
+      "Entity": "Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses, companies with solution based products or services"
+    },
+    {
+      "Name": ".world",
+      "Entity": "Brands with an international presence, nonprofits and charities, travel agencies & adventure companies, world travelers & global communities, any business with “world” in its name"
+    },
+    {
+      "Name": ".wow",
+      "Entity": ""
+    },
+    {
+      "Name": ".wtf",
+      "Entity": "Bargain websites, photo & video aggregators, meme sites, news of the weird"
+    },
+    {
+      "Name": ".xxx",
+      "Entity": "adult entertainment (pornography)"
+    },
+    {
+      "Name": ".xyz",
+      "Entity": "general"
+    },
+    {
+      "Name": ".yachts",
+      "Entity": "yachts"
+    },
+    {
+      "Name": ".yoga",
+      "Entity": "yoga"
+    },
+    {
+      "Name": ".you",
+      "Entity": ""
+    },
+    {
+      "Name": ".youtube",
+      "Entity": ""
+    },
+    {
+      "Name": ".zero",
+      "Entity": ""
+    },
+    {
+      "Name": ".zip",
+      "Entity": "digital storage information, providers, and related entities."
+    },
+    {
+      "Name": ".zone",
+      "Entity": "Sports fans, technology groups & followers, entertainment, fairs, destinations with a “zone”, city planners & zoning regulators, any topic with a following"
+    },
+    {
+      "Name": ".ren",
+      "Entity": "人 rén"
+    },
+    {
+      "Name": ".shouji",
+      "Entity": "手机 shǒujī"
+    },
+    {
+      "Name": ".tushu",
+      "Entity": "图书 túshū"
+    },
+    {
+      "Name": ".wanggou",
+      "Entity": "网购 wǎnggòu"
+    },
+    {
+      "Name": ".weibo",
+      "Entity": "微博 wēibó"
+    },
+    {
+      "Name": ".xihuan",
+      "Entity": "喜欢 xǐhuān"
+    },
+    {
+      "Name": ".xin",
+      "Entity": "信 xìn"
+    },
+    {
+      "Name": ".arte",
+      "Entity": "\"\"ARTE means Association relating to European television\"\""
+    },
+    {
+      "Name": ".clinique",
+      "Entity": "\"\"clinic or hospital\"\""
+    },
+    {
+      "Name": ".luxe",
+      "Entity": "\"\"luxury\"\""
+    },
+    {
+      "Name": ".maison",
+      "Entity": "\"\"house\"\""
+    },
+    {
+      "Name": ".moi",
+      "Entity": "\"\"me\"\""
+    },
+    {
+      "Name": ".rsvp",
+      "Entity": "Invitations and replies"
+    },
+    {
+      "Name": ".sarl",
+      "Entity": "Société à responsabilité limitée, Francophone Limited liability company"
+    },
+    {
+      "Name": ".baby",
+      "Entity": "For selling baby-related products"
+    },
+    {
+      "Name": ".band",
+      "Entity": "Music venues, ticket sale/resale sites, music band & musician sites, school band sites, music review sites"
+    },
+    {
+      "Name": ".bank",
+      "Entity": "banks"
+    },
+    {
+      "Name": ".bar",
+      "Entity": "Bars and related industry"
+    },
+    {
+      "Name": ".barefoot",
+      "Entity": ""
+    },
+    {
+      "Name": ".bargains",
+      "Entity": "Online retailers, large and small, \"\"sale\"\" sections on retail websites, discount & overstock sites, bargain hunters, frugal-living bloggers"
+    },
+    {
+      "Name": ".baseball",
+      "Entity": "baseball"
+    },
+    {
+      "Name": ".basketball",
+      "Entity": "basketball"
+    },
+    {
+      "Name": ".beauty",
+      "Entity": "beauty"
+    },
+    {
+      "Name": ".beer",
+      "Entity": "breweries and beer aficionados"
+    },
+    {
+      "Name": ".best",
+      "Entity": ""
+    },
+    {
+      "Name": ".bestbuy",
+      "Entity": ""
+    },
+    {
+      "Name": ".bet",
+      "Entity": "gambling"
+    },
+    {
+      "Name": ".bible",
+      "Entity": ""
+    },
+    {
+      "Name": ".bid",
+      "Entity": "auctions"
+    },
+    {
+      "Name": ".bike",
+      "Entity": "Bicycle & motorcycle enthusiasts, bike retailers & gear shops, bike repair shops, biking event organizers, bike or motorcycle clubs"
+    },
+    {
+      "Name": ".bingo",
+      "Entity": "Bingo halls, casinos, online & casual gaming sites, travel agencies"
+    },
+    {
+      "Name": ".bio",
+      "Entity": "Organic agriculture"
+    },
+    {
+      "Name": ".biz",
+      "Entity": "business"
+    },
+    {
+      "Name": ".black",
+      "Entity": "those who like the color black"
+    },
+    {
+      "Name": ".blackfriday",
+      "Entity": "Black Friday, retail"
+    },
+    {
+      "Name": ".blockbuster",
+      "Entity": ""
+    },
+    {
+      "Name": ".blog",
+      "Entity": "Blogs"
+    },
+    {
+      "Name": ".blue",
+      "Entity": "those who like the color blue"
+    },
+    {
+      "Name": ".boo",
+      "Entity": "—"
+    },
+    {
+      "Name": ".book",
+      "Entity": ""
+    },
+    {
+      "Name": ".boots",
+      "Entity": ""
+    },
+    {
+      "Name": ".boston",
+      "Entity": "websites related to the city of Boston, Massachusetts USA"
+    },
+    {
+      "Name": ".bot",
+      "Entity": ""
+    },
+    {
+      "Name": ".boutique",
+      "Entity": "Specialty online retailers, vintage shops, designers, artists and artisans, craftspeople"
+    },
+    {
+      "Name": ".box",
+      "Entity": "individuals and businesses, in order to promote personal cloud storage"
+    },
+    {
+      "Name": ".broadway",
+      "Entity": "Broadway theatre"
+    },
+    {
+      "Name": ".broker",
+      "Entity": ""
+    },
+    {
+      "Name": ".build",
+      "Entity": "construction industry"
+    },
+    {
+      "Name": ".builders",
+      "Entity": "Contractors, subcontractors, commercial/residential architects, interior designers"
+    },
+    {
+      "Name": ".business",
+      "Entity": "Creative businesses & agencies, freelancers & independent consultants, any other business looking to differentiate from the competition"
+    },
+    {
+      "Name": ".buy",
+      "Entity": "sales"
+    },
+    {
+      "Name": ".buzz",
+      "Entity": "marketing and social networking"
+    },
+    {
+      "Name": ".epost",
+      "Entity": "e-mail"
+    },
+    {
+      "Name": ".gmbh",
+      "Entity": "GmbH"
+    },
+    {
+      "Name": ".haus",
+      "Entity": "\"\"house\"\""
+    },
+    {
+      "Name": ".immobilien",
+      "Entity": "\"\"real estate\"\""
+    },
+    {
+      "Name": ".jetzt",
+      "Entity": "\"\"now\"\""
+    },
+    {
+      "Name": ".kaufen",
+      "Entity": "\"\"buy\"\""
+    },
+    {
+      "Name": ".kinder",
+      "Entity": "\"\"children\"\""
+    },
+    {
+      "Name": ".reise",
+      "Entity": "\"\"travel\"\""
+    },
+    {
+      "Name": ".reisen",
+      "Entity": "\"\"traveling\"\""
+    },
+    {
+      "Name": ".schule",
+      "Entity": "\"\"school\"\""
+    },
+    {
+      "Name": ".versicherung",
+      "Entity": "\"\"insurance\"\""
+    },
+    {
+      "Name": ".desi",
+      "Entity": "देसी, Hindi for the peoples and cultures of South Asia\nSee also Desi"
+    },
+    {
+      "Name": ".shiksha",
+      "Entity": "शिक्षा, Marathi and Hindi for \"\"education\"\"."
+    },
+    {
+      "Name": ".भारत",
+      "Entity": ""
+    },
+    {
+      "Name": ".casa",
+      "Entity": "\"\"house\"\""
+    },
+    {
+      "Name": ".immo",
+      "Entity": "French, German, and Italian abbreviation for \"\"real estate\"\""
+    },
+    {
+      "Name": ".moda",
+      "Entity": "\"\"fashion\"\""
+    },
+    {
+      "Name": ".voto",
+      "Entity": "\"\"vote\"\", for election and campaign websites"
+    },
+    {
+      "Name": ".bom",
+      "Entity": "good"
+    },
+    {
+      "Name": ".passagens",
+      "Entity": "ticket"
+    },
+    {
+      "Name": ".abogado",
+      "Entity": "\"\"lawyer\"\""
+    },
+    {
+      "Name": ".futbol",
+      "Entity": "\"\"Football\"\" (soccer)"
+    },
+    {
+      "Name": ".gratis",
+      "Entity": "\"\"free\"\""
+    },
+    {
+      "Name": ".hoteles",
+      "Entity": "\"\"hotels\"\""
+    },
+    {
+      "Name": ".juegos",
+      "Entity": "\"\"games\"\""
+    },
+    {
+      "Name": ".ltda",
+      "Entity": "companies in South America"
+    },
+    {
+      "Name": ".soy",
+      "Entity": "\"\"I am\""
+    },
+    {
+      "Name": "Also refers to the soybean and its food derivatives\"",
+      "Entity": "—"
+    },
+    {
+      "Name": ".tienda",
+      "Entity": "\"\"shop\"\", \"\"store\"\""
+    },
+    {
+      "Name": ".uno",
+      "Entity": "\"\"one\"\", for websites targeting Spanish speaking consumers"
+    },
+    {
+      "Name": ".viajes",
+      "Entity": "\"\"travel\"\" or \"\"trips\"\""
+    },
+    {
+      "Name": ".vuelos",
+      "Entity": "\"\"flights\"\""
+    },
+    {
+      "Name": ".cab",
+      "Entity": "Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging, tourist attractions"
+    },
+    {
+      "Name": ".cafe",
+      "Entity": "Cafes, restaurants, delis, cafeterias, coffee shops & coffee stands, student lounges, mobile food/beverage vendors, cooking schools"
+    },
+    {
+      "Name": ".call",
+      "Entity": ""
+    },
+    {
+      "Name": ".cam",
+      "Entity": "Cameras, photography, broadcasting, film-making and livestreaming."
+    },
+    {
+      "Name": ".camera",
+      "Entity": "Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online"
+    },
+    {
+      "Name": ".camp",
+      "Entity": "Camping/RV sites, travel writers & bloggers, outdoor adventure companies, summer camps for kids, hotels, hostels, lodges, bed & breakfast lodging"
+    },
+    {
+      "Name": ".cancerresearch",
+      "Entity": "Organizations, research institutes and individuals interested in ending cancer through research"
+    },
+    {
+      "Name": ".capital",
+      "Entity": "Mortgage companies, financial services professionals, investment services, venture capital investors"
+    },
+    {
+      "Name": ".car",
+      "Entity": "vehicles"
+    },
+    {
+      "Name": ".cards",
+      "Entity": "Occasion shoppers (holiday, birthday, bereavement), occasion-related websites, gift buyers, corporate HR departments"
+    },
+    {
+      "Name": ".care",
+      "Entity": "Surgeons, primary/secondary care physicians, insurance providers, hospitals & clinics, medical, dental, or vision specialists, service based products or services"
+    },
+    {
+      "Name": ".career",
+      "Entity": "jobs and job-searching"
+    },
+    {
+      "Name": ".careers",
+      "Entity": "Career services (coaching, resume writing), job sites & recruiters, business coaches, staffing firms, HR department of any business"
+    },
+    {
+      "Name": ".cars",
+      "Entity": "Automotive"
+    },
+    {
+      "Name": ".casa",
+      "Entity": "Spanish word for house, targeted for real estate and other house and home related companies"
+    },
+    {
+      "Name": ".case",
+      "Entity": ""
+    },
+    {
+      "Name": ".cash",
+      "Entity": "Pawn shops and consignment shops, currency exchanges, other cash-based businesses, check cashing services"
+    },
+    {
+      "Name": ".casino",
+      "Entity": "Casino & online gaming sites, travel agencies, local tourist sites, hotel booking sites"
+    },
+    {
+      "Name": ".catering",
+      "Entity": "Caterers & personal chefs, specialty food vendors, wedding planners & event planners, event spaces, wholesale suppliers"
+    },
+    {
+      "Name": ".catholic",
+      "Entity": "Catholicism"
+    },
+    {
+      "Name": ".center",
+      "Entity": "Community centers, business centers, shopping centers, tourist sites/city centers, tutoring & learning centers"
+    },
+    {
+      "Name": ".cern",
+      "Entity": "CERN"
+    },
+    {
+      "Name": ".ceo",
+      "Entity": "CEOs"
+    },
+    {
+      "Name": ".cfd",
+      "Entity": "clothing fashion design"
+    },
+    {
+      "Name": ".channel",
+      "Entity": ""
+    },
+    {
+      "Name": ".chat",
+      "Entity": "Online chat rooms, dating, political, religious, sports, human interest, & hobbyist forums, companies with live chat help desks, chatbot technology companies"
+    },
+    {
+      "Name": ".charity",
+      "Entity": ""
+    },
+    {
+      "Name": ".cheap",
+      "Entity": "Online retailers, discount sites, overstock sites, businesses who sell bulk products at discounted prices, bargain hunters & frugal-living bloggers"
+    },
+    {
+      "Name": ".christmas",
+      "Entity": "Christmas"
+    },
+    {
+      "Name": ".church",
+      "Entity": "Churches, youth organizations, spiritual communities, religion-based organizations, anyone who publishes spiritual or religious content"
+    },
+    {
+      "Name": ".circle",
+      "Entity": ""
+    },
+    {
+      "Name": ".city",
+      "Entity": "City resource sites for locals and travelers, travel writers & bloggers, local reviews websites, tourist attractions, transportation businesses"
+    },
+    {
+      "Name": ".claims",
+      "Entity": "Insurance adjusters & claims representatives, insurance claims departments (auto, medical, homeowners), customer service departments of insurance companies, law firms"
+    },
+    {
+      "Name": ".cleaning",
+      "Entity": "Contractors, commercial/home cleaning services, auto detailing/cleaning services"
+    },
+    {
+      "Name": ".click",
+      "Entity": ""
+    },
+    {
+      "Name": ".clinic",
+      "Entity": "Healthcare clinics, medical or healthcare specialists, sports clinics, urgent care clinics"
+    },
+    {
+      "Name": ".clothing",
+      "Entity": "Online retailers, department stores, designers"
+    },
+    {
+      "Name": ".cloud",
+      "Entity": "Companies involved in cloud computing"
+    },
+    {
+      "Name": ".club",
+      "Entity": "groups, organizations, assemblies, communities, general"
+    },
+    {
+      "Name": ".coach",
+      "Entity": "Athletic organizations, personal trainers & coaches, business, life, & health coaches, school & community club coaches or tutors, affordable travel, airline, train, car, or other transportation companies"
+    },
+    {
+      "Name": ".codes",
+      "Entity": "Software and web developers, IT companies, technology R&D companies, coding enthusiasts, coding classes & camps"
+    },
+    {
+      "Name": ".coffee",
+      "Entity": "Coffee shops, roasters, wholesalers & suppliers, machine & equipment suppliers and stands"
+    },
+    {
+      "Name": ".college",
+      "Entity": "Educational"
+    },
+    {
+      "Name": ".community",
+      "Entity": "City guides & community centers, online communities, neighborhood associations, churches, mosques, temples, and other spiritual communities, local writers & bloggers"
+    },
+    {
+      "Name": ".company",
+      "Entity": "Small, medium, or large businesses, business that want to demonstrate authority in their field, makers, artisans, anyone who sells a niche product"
+    },
+    {
+      "Name": ".compare",
+      "Entity": ""
+    },
+    {
+      "Name": ".computer",
+      "Entity": "Computer manufacturers, computer repair services, computer resellers, computer training & education programs, tech companies"
+    },
+    {
+      "Name": ".condos",
+      "Entity": "Real estate brokers/agents, property (condominium) managers, mortgage companies, condominium/apartment developers, condominium associations"
+    },
+    {
+      "Name": ".construction",
+      "Entity": "Contractors, commercial/residential architects, wholesale and retail construction suppliers"
+    },
+    {
+      "Name": ".consulting",
+      "Entity": "Consulting firms, independent consultants, specialty services, businesses that offer expert training"
+    },
+    {
+      "Name": ".contact",
+      "Entity": ""
+    },
+    {
+      "Name": ".contractors",
+      "Entity": "Construction-related businesses, contractors, subcontractors, independent contractors with unique skills and expertise, unions or other organizations promoting their people and skills"
+    },
+    {
+      "Name": ".cooking",
+      "Entity": "sharing recipes"
+    },
+    {
+      "Name": ".cool",
+      "Entity": "Fashion magazines & blogs, meme aggregators, trend tracking sites, online merchants, fun publications & sites"
+    },
+    {
+      "Name": ".coop",
+      "Entity": "cooperatives"
+    },
+    {
+      "Name": ".country",
+      "Entity": "general"
+    },
+    {
+      "Name": ".coupon",
+      "Entity": "discounts and rebates"
+    },
+    {
+      "Name": ".coupons",
+      "Entity": "Coupon pages, coupon sites, discount sites, coupon-themed blogs, bargain hunters"
+    },
+    {
+      "Name": ".courses",
+      "Entity": "education"
+    },
+    {
+      "Name": ".cpa",
+      "Entity": "accountants and accounting firms"
+    },
+    {
+      "Name": ".credit",
+      "Entity": "Credit card companies, lenders, credit unions, collection agencies, credit counselors & financial planners"
+    },
+    {
+      "Name": ".creditcard",
+      "Entity": "Credit card companies, store/retailer credit card sites, credit counselors & financial planners, credit card processing services"
+    },
+    {
+      "Name": ".cruise",
+      "Entity": "Cruise lines, cruise-related products or services, travel agencies & vacation services, private charter boats"
+    },
+    {
+      "Name": ".cricket",
+      "Entity": "cricket"
+    },
+    {
+      "Name": ".cruises",
+      "Entity": "cruise businesses and travel"
+    },
+    {
+      "Name": ".cyou",
+      "Entity": "For any individual or business that shares the ethical values of diversity, inclusivity, and independence"
+    },
+    {
+      "Name": ".africa",
+      "Entity": "Africa"
+    },
+    {
+      "Name": ".capetown",
+      "Entity": "Cape Town, South Africa"
+    },
+    {
+      "Name": ".durban",
+      "Entity": "Durban, South Africa"
+    },
+    {
+      "Name": ".joburg",
+      "Entity": "Johannesburg, South Africa"
+    },
+    {
+      "Name": ".abudhabi",
+      "Entity": "Abu Dhabi, UAE"
+    },
+    {
+      "Name": ".arab",
+      "Entity": "League of Arab States"
+    },
+    {
+      "Name": ".asia",
+      "Entity": "Asia–Pacific region"
+    },
+    {
+      "Name": ".doha",
+      "Entity": "Doha, Qatar"
+    },
+    {
+      "Name": ".dubai",
+      "Entity": "Dubai, UAE"
+    },
+    {
+      "Name": ".krd",
+      "Entity": "Kurdistan"
+    },
+    {
+      "Name": ".kyoto",
+      "Entity": "Kyoto, Japan"
+    },
+    {
+      "Name": ".nagoya",
+      "Entity": "Nagoya, Japan"
+    },
+    {
+      "Name": ".okinawa",
+      "Entity": "Okinawa, Japan"
+    },
+    {
+      "Name": ".osaka",
+      "Entity": "Osaka, Japan"
+    },
+    {
+      "Name": ".ryukyu",
+      "Entity": "Ryukyu Islands, Japan"
+    },
+    {
+      "Name": ".taipei",
+      "Entity": "Taipei, Taiwan"
+    },
+    {
+      "Name": ".tokyo",
+      "Entity": "Tokyo, Japan"
+    },
+    {
+      "Name": ".yokohama",
+      "Entity": "Yokohama, Japan"
+    },
+    {
+      "Name": ".boston",
+      "Entity": "Boston, Massachusetts"
+    },
+    {
+      "Name": ".miami",
+      "Entity": "Miami, Florida"
+    },
+    {
+      "Name": ".nyc",
+      "Entity": "New York City, New York"
+    },
+    {
+      "Name": ".quebec",
+      "Entity": "Quebec, Canada"
+    },
+    {
+      "Name": ".vegas",
+      "Entity": "Las Vegas, Nevada"
+    },
+    {
+      "Name": ".kiwi",
+      "Entity": "New Zealanders"
+    },
+    {
+      "Name": ".melbourne",
+      "Entity": "Melbourne, Australia"
+    },
+    {
+      "Name": ".sydney",
+      "Entity": "Sydney, Australia"
+    },
+    {
+      "Name": ".lat",
+      "Entity": "Latin America"
+    },
+    {
+      "Name": ".rio",
+      "Entity": "Rio de Janeiro, Brazil"
+    },
+    {
+      "Name": ".dad",
+      "Entity": "fathers"
+    },
+    {
+      "Name": ".dance",
+      "Entity": "Dance studios & instructors, nightclubs & music venues, dance teams & troupes, dance shoe, clothing & equipment manufacturers, fans of dance & live performances"
+    },
+    {
+      "Name": ".data",
+      "Entity": ""
+    },
+    {
+      "Name": ".date",
+      "Entity": "online dating"
+    },
+    {
+      "Name": ".dating",
+      "Entity": "Dating & matchmaker sites, travel sites & city guides, singles meetup groups, traditional “classified” sites, event businesses"
+    },
+    {
+      "Name": ".day",
+      "Entity": "general"
+    },
+    {
+      "Name": ".deal",
+      "Entity": "sales"
+    },
+    {
+      "Name": ".deals",
+      "Entity": "Discount sites, bargain hunters, coupon sites, coupon pages. coupon-themed guides, directories and blogs"
+    },
+    {
+      "Name": ".degree",
+      "Entity": "Brick-and-mortar schools & universities, online universities, other learning courses, other educational resources"
+    },
+    {
+      "Name": ".delivery",
+      "Entity": "Consumer delivery services, commercial shipping services, transportation services, messenger services, any business that ships their products"
+    },
+    {
+      "Name": ".democrat",
+      "Entity": "Political candidates, lobbyists, political parties, fundraising organizations"
+    },
+    {
+      "Name": ".dental",
+      "Entity": "Dentists, endodontists, orthodontists, retailers selling oral health supplies, wholesale suppliers for dental care"
+    },
+    {
+      "Name": ".dentist",
+      "Entity": "Dentists, endodontists, orthodontists, retailers selling oral health supplies, wholesale suppliers for dental care"
+    },
+    {
+      "Name": ".design",
+      "Entity": "graphic art and fashion"
+    },
+    {
+      "Name": ".dev",
+      "Entity": "software development"
+    },
+    {
+      "Name": ".diamonds",
+      "Entity": "Jewelers, diamond wholesalers and retailers, jewelry appraisers and buyers, pawn shops"
+    },
+    {
+      "Name": ".diet",
+      "Entity": "dieting and dietary"
+    },
+    {
+      "Name": ".digital",
+      "Entity": "Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), online event, meetup & gaming sites, technology companies, e-commerce sites"
+    },
+    {
+      "Name": ".direct",
+      "Entity": "Direct-to-consumer stores, bargain hunters, transportation services, messenger services, delivery & shipping services"
+    },
+    {
+      "Name": ".directory",
+      "Entity": "Listings organizations, name, phone & address directories, online business directories, clubs, groups, & other organizations directories"
+    },
+    {
+      "Name": ".discount",
+      "Entity": "Discount sites, bargain hunters, coupon sites, coupon pages, coupon-themed blogs"
+    },
+    {
+      "Name": ".diy",
+      "Entity": "do-it-yourself"
+    },
+    {
+      "Name": ".docs",
+      "Entity": "Technical Documentation"
+    },
+    {
+      "Name": ".doctor",
+      "Entity": "Doctors, any business with “doctor” in the name, other health care providers, PhD experts in any field"
+    },
+    {
+      "Name": ".dog",
+      "Entity": "Dog breeders, dog walking, grooming & sitting businesses, veterinarians, animal shelters & adoption centers, pet stores & suppliers"
+    },
+    {
+      "Name": ".domains",
+      "Entity": "Any web-based service, network consultants, domain brokers, resellers and registrars, home-related products and services"
+    },
+    {
+      "Name": ".dot",
+      "Entity": ""
+    },
+    {
+      "Name": ".download",
+      "Entity": "technology"
+    },
+    {
+      "Name": ".drive",
+      "Entity": ""
+    },
+    {
+      "Name": ".aaa",
+      "Entity": "American Automobile Association"
+    },
+    {
+      "Name": ".aarp",
+      "Entity": "AARP"
+    },
+    {
+      "Name": ".abb",
+      "Entity": "ABB"
+    },
+    {
+      "Name": ".abbott",
+      "Entity": "Abbott Laboratories"
+    },
+    {
+      "Name": ".abbvie",
+      "Entity": "AbbVie"
+    },
+    {
+      "Name": ".abc",
+      "Entity": "American Broadcasting Company"
+    },
+    {
+      "Name": ".accenture",
+      "Entity": "Accenture"
+    },
+    {
+      "Name": ".aco",
+      "Entity": "ACO Severin Ahlmann GmbH & Co. KG"
+    },
+    {
+      "Name": ".aeg",
+      "Entity": "Aktiebolaget Electrolux"
+    },
+    {
+      "Name": ".aetna",
+      "Entity": "Aetna"
+    },
+    {
+      "Name": ".afl",
+      "Entity": "Australian Football League"
+    },
+    {
+      "Name": ".agakhan",
+      "Entity": "Aga Khan Foundation"
+    },
+    {
+      "Name": ".aig",
+      "Entity": "American International Group"
+    },
+    {
+      "Name": ".airbus",
+      "Entity": "Airbus"
+    },
+    {
+      "Name": ".airtel",
+      "Entity": "Bharti Airtel"
+    },
+    {
+      "Name": ".akdn",
+      "Entity": "Aga Khan Foundation"
+    },
+    {
+      "Name": ".alibaba",
+      "Entity": "Alibaba Group"
+    },
+    {
+      "Name": ".alipay",
+      "Entity": "Alibaba Group"
+    },
+    {
+      "Name": ".allstate",
+      "Entity": "Allstate"
+    },
+    {
+      "Name": ".ally",
+      "Entity": "Ally Financial"
+    },
+    {
+      "Name": ".alstom",
+      "Entity": "Alstom"
+    },
+    {
+      "Name": ".americanexpress",
+      "Entity": "American Express"
+    },
+    {
+      "Name": ".amex",
+      "Entity": "American Express"
+    },
+    {
+      "Name": ".amica",
+      "Entity": "Amica Mutual Insurance"
+    },
+    {
+      "Name": ".anz",
+      "Entity": "Australia & New Zealand Banking Group"
+    },
+    {
+      "Name": ".aol",
+      "Entity": "AOL"
+    },
+    {
+      "Name": ".apple",
+      "Entity": "Apple"
+    },
+    {
+      "Name": ".aramco",
+      "Entity": "Aramco"
+    },
+    {
+      "Name": ".audi",
+      "Entity": "Audi"
+    },
+    {
+      "Name": ".auspost",
+      "Entity": "Australia Post"
+    },
+    {
+      "Name": ".aws",
+      "Entity": "Amazon Web Services"
+    },
+    {
+      "Name": ".azure",
+      "Entity": "Microsoft"
+    },
+    {
+      "Name": ".baidu",
+      "Entity": "Baidu"
+    },
+    {
+      "Name": ".bauhaus",
+      "Entity": "Werkhaus GmbH"
+    },
+    {
+      "Name": ".bbc",
+      "Entity": "BBC"
+    },
+    {
+      "Name": ".bbt",
+      "Entity": "BB&T"
+    },
+    {
+      "Name": ".bbva",
+      "Entity": "Banco Bilbao Vizcaya Argentaria"
+    },
+    {
+      "Name": ".bcg",
+      "Entity": "Boston Consulting Group"
+    },
+    {
+      "Name": ".bentley",
+      "Entity": "Bentley"
+    },
+    {
+      "Name": ".bharti",
+      "Entity": "Bharti Enterprises"
+    },
+    {
+      "Name": ".bing",
+      "Entity": "Microsoft (Bing)"
+    },
+    {
+      "Name": ".bms",
+      "Entity": "Bristol-Myers Squibb"
+    },
+    {
+      "Name": ".boehringer",
+      "Entity": "Boehringer Ingelheim"
+    },
+    {
+      "Name": ".booking",
+      "Entity": "Booking.com"
+    },
+    {
+      "Name": ".bosch",
+      "Entity": "Robert Bosch GmbH"
+    },
+    {
+      "Name": ".bostik",
+      "Entity": "Bostik"
+    },
+    {
+      "Name": ".bridgestone",
+      "Entity": "Bridgestone"
+    },
+    {
+      "Name": ".brother",
+      "Entity": "Brother Industries"
+    },
+    {
+      "Name": ".calvinklein",
+      "Entity": "PVH"
+    },
+    {
+      "Name": ".canon",
+      "Entity": "Canon"
+    },
+    {
+      "Name": ".capitalone",
+      "Entity": "Capital One"
+    },
+    {
+      "Name": ".cba",
+      "Entity": "Commonwealth Bank"
+    },
+    {
+      "Name": ".cbn",
+      "Entity": "Christian Broadcasting Network"
+    },
+    {
+      "Name": ".cbre",
+      "Entity": "CBRE Group"
+    },
+    {
+      "Name": ".cfa",
+      "Entity": "CFA Institute"
+    },
+    {
+      "Name": ".chanel",
+      "Entity": "Chanel"
+    },
+    {
+      "Name": ".chase",
+      "Entity": "Chase Bank"
+    },
+    {
+      "Name": ".chintai",
+      "Entity": "Chintai Corporation[ja]"
+    },
+    {
+      "Name": ".cipriani",
+      "Entity": "Hotel Cipriani Srl"
+    },
+    {
+      "Name": ".cisco",
+      "Entity": "Cisco Systems"
+    },
+    {
+      "Name": ".citadel",
+      "Entity": "Citadel Domain"
+    },
+    {
+      "Name": ".citi",
+      "Entity": "Citigroup"
+    },
+    {
+      "Name": ".clubmed",
+      "Entity": "Club Med"
+    },
+    {
+      "Name": ".commbank",
+      "Entity": "Commonwealth Bank"
+    },
+    {
+      "Name": ".creditunion",
+      "Entity": "CUNA Performance Resources"
+    },
+    {
+      "Name": ".crown",
+      "Entity": "Crown Equipment Corporation"
+    },
+    {
+      "Name": ".dabur",
+      "Entity": "Dabur"
+    },
+    {
+      "Name": ".datsun",
+      "Entity": "Nissan (Datsun)"
+    },
+    {
+      "Name": ".dealer",
+      "Entity": "Dealer Dot Com"
+    },
+    {
+      "Name": ".dell",
+      "Entity": "Dell"
+    },
+    {
+      "Name": ".deloitte",
+      "Entity": "Deloitte"
+    },
+    {
+      "Name": ".delta",
+      "Entity": "Delta Air Lines"
+    },
+    {
+      "Name": ".dhl",
+      "Entity": "Deutsche Post"
+    },
+    {
+      "Name": ".discover",
+      "Entity": "Discover Financial Services"
+    },
+    {
+      "Name": ".dish",
+      "Entity": "Dish Network"
+    },
+    {
+      "Name": ".dunlop",
+      "Entity": "Goodyear Tire and Rubber Company (Dunlop Tyres)"
+    },
+    {
+      "Name": ".dupont",
+      "Entity": "DuPont"
+    },
+    {
+      "Name": ".epson",
+      "Entity": "Seiko Epson"
+    },
+    {
+      "Name": ".ericsson",
+      "Entity": "Ericsson"
+    },
+    {
+      "Name": ".erni",
+      "Entity": "ERNI Group Holding AG"
+    },
+    {
+      "Name": ".eurovision",
+      "Entity": "European Broadcasting Union (Eurovision)"
+    },
+    {
+      "Name": ".extraspace",
+      "Entity": "Extra Space Storage"
+    },
+    {
+      "Name": ".fage",
+      "Entity": "Fage"
+    },
+    {
+      "Name": ".fairwinds",
+      "Entity": "FairWinds Partners"
+    },
+    {
+      "Name": ".farmers",
+      "Entity": "Farmers Insurance Exchange"
+    },
+    {
+      "Name": ".fedex",
+      "Entity": "FedEx"
+    },
+    {
+      "Name": ".ferrari",
+      "Entity": "Fiat Chrysler Automobiles (Ferrari)"
+    },
+    {
+      "Name": ".ferrero",
+      "Entity": "Ferrero"
+    },
+    {
+      "Name": ".fidelity",
+      "Entity": "Fidelity Investments"
+    },
+    {
+      "Name": ".firestone",
+      "Entity": "Bridgestone"
+    },
+    {
+      "Name": ".flickr",
+      "Entity": "Yahoo! (Flickr)"
+    },
+    {
+      "Name": ".flir",
+      "Entity": "FLIR Systems"
+    },
+    {
+      "Name": ".ford",
+      "Entity": "Ford"
+    },
+    {
+      "Name": ".fox",
+      "Entity": "Fox Broadcasting Company"
+    },
+    {
+      "Name": ".fresenius",
+      "Entity": "Fresenius Immobilien-Verwaltungs-GmbH"
+    },
+    {
+      "Name": ".forex",
+      "Entity": "Dotforex Registry Ltd"
+    },
+    {
+      "Name": ".frontier",
+      "Entity": "Frontier Communications"
+    },
+    {
+      "Name": ".fujitsu",
+      "Entity": "Fujitsu"
+    },
+    {
+      "Name": ".gallo",
+      "Entity": "E & J Gallo Winery"
+    },
+    {
+      "Name": ".gallup",
+      "Entity": "Gallup"
+    },
+    {
+      "Name": ".gap",
+      "Entity": "Gap"
+    },
+    {
+      "Name": ".gea",
+      "Entity": "GEA Group"
+    },
+    {
+      "Name": ".genting",
+      "Entity": "Genting Group"
+    },
+    {
+      "Name": ".giving",
+      "Entity": "Giving Limited"
+    },
+    {
+      "Name": ".godaddy",
+      "Entity": "Go Daddy"
+    },
+    {
+      "Name": ".goldpoint",
+      "Entity": "Yodobashi Camera"
+    },
+    {
+      "Name": ".goodyear",
+      "Entity": "Goodyear Tire and Rubber Company"
+    },
+    {
+      "Name": ".grainger",
+      "Entity": "Grainger Registry Services, LLC"
+    },
+    {
+      "Name": ".gucci",
+      "Entity": "Gucci"
+    },
+    {
+      "Name": ".hbo",
+      "Entity": "HBO"
+    },
+    {
+      "Name": ".hdfc",
+      "Entity": "Housing Development Finance Corporation"
+    },
+    {
+      "Name": ".hdfcbank",
+      "Entity": "HDFC Bank"
+    },
+    {
+      "Name": ".hermes",
+      "Entity": "Hermès"
+    },
+    {
+      "Name": ".hisamitsu",
+      "Entity": "Hisamitsu Pharmaceutical"
+    },
+    {
+      "Name": ".hitachi",
+      "Entity": "Hitachi"
+    },
+    {
+      "Name": ".hkt",
+      "Entity": "Hong Kong Telecom"
+    },
+    {
+      "Name": ".honda",
+      "Entity": "Honda"
+    },
+    {
+      "Name": ".hotmail",
+      "Entity": "Microsoft (Hotmail)"
+    },
+    {
+      "Name": ".hughes",
+      "Entity": "Hughes Network Systems"
+    },
+    {
+      "Name": ".hyatt",
+      "Entity": "Hyatt"
+    },
+    {
+      "Name": ".hyundai",
+      "Entity": "Hyundai Motor Company"
+    },
+    {
+      "Name": ".ieee",
+      "Entity": "Institute of Electrical & Electronics Engineers"
+    },
+    {
+      "Name": ".ifm",
+      "Entity": "ifm electronic gmbh"
+    },
+    {
+      "Name": ".ikano",
+      "Entity": "Ikano"
+    },
+    {
+      "Name": ".imdb",
+      "Entity": "Amazon (IMDb)"
+    },
+    {
+      "Name": ".infiniti",
+      "Entity": "Nissan (Infiniti)"
+    },
+    {
+      "Name": ".intuit",
+      "Entity": "Intuit"
+    },
+    {
+      "Name": ".ipiranga",
+      "Entity": "Ipiranga"
+    },
+    {
+      "Name": ".itau",
+      "Entity": "Itaú Unibanco"
+    },
+    {
+      "Name": ".itv",
+      "Entity": "ITV"
+    },
+    {
+      "Name": ".jaguar",
+      "Entity": "Jaguar Land Rover"
+    },
+    {
+      "Name": ".java",
+      "Entity": "Oracle (Java)"
+    },
+    {
+      "Name": ".jcb",
+      "Entity": "JCB"
+    },
+    {
+      "Name": ".jeep",
+      "Entity": "Chrysler (Jeep)"
+    },
+    {
+      "Name": ".jpmorgan",
+      "Entity": "JPMorgan Chase"
+    },
+    {
+      "Name": ".juniper",
+      "Entity": "Juniper Networks"
+    },
+    {
+      "Name": ".kddi",
+      "Entity": "KDDI"
+    },
+    {
+      "Name": ".kerryhotels",
+      "Entity": "Kerry Trading Co. Limited"
+    },
+    {
+      "Name": ".kerrylogistics",
+      "Entity": "Kerry Trading Co. Limited"
+    },
+    {
+      "Name": ".kerryproperties",
+      "Entity": "Kerry Trading Co. Limited"
+    },
+    {
+      "Name": ".kfh",
+      "Entity": "Kuwait Finance House"
+    },
+    {
+      "Name": ".kia",
+      "Entity": "Kia Motors Corporation"
+    },
+    {
+      "Name": ".kindle",
+      "Entity": "Amazon (Amazon Kindle)"
+    },
+    {
+      "Name": ".komatsu",
+      "Entity": "Komatsu"
+    },
+    {
+      "Name": ".kpmg",
+      "Entity": "KPMG"
+    },
+    {
+      "Name": ".kuokgroup",
+      "Entity": "Kerry Trading Co. Limited"
+    },
+    {
+      "Name": ".lamborghini",
+      "Entity": "Lamborghini"
+    },
+    {
+      "Name": ".lancaster",
+      "Entity": "Lancaster (Coty)"
+    },
+    {
+      "Name": ".landrover",
+      "Entity": "Jaguar Land Rover"
+    },
+    {
+      "Name": ".lanxess",
+      "Entity": "Lanxess"
+    },
+    {
+      "Name": ".lasalle",
+      "Entity": "JLL"
+    },
+    {
+      "Name": ".lego",
+      "Entity": "Lego Group"
+    },
+    {
+      "Name": ".lexus",
+      "Entity": "Toyota (Lexus)"
+    },
+    {
+      "Name": ".lidl",
+      "Entity": "Lidl"
+    },
+    {
+      "Name": ".lifestyle",
+      "Entity": "Lifestyle Domain Holdings, Inc."
+    },
+    {
+      "Name": ".lilly",
+      "Entity": "Eli Lilly and Company"
+    },
+    {
+      "Name": ".lincoln",
+      "Entity": "Ford (Lincoln)"
+    },
+    {
+      "Name": ".lipsy",
+      "Entity": "Lipsy Ltd"
+    },
+    {
+      "Name": ".locus",
+      "Entity": "Locus Analytics"
+    },
+    {
+      "Name": ".lotte",
+      "Entity": "Lotte Holdings"
+    },
+    {
+      "Name": ".lpl",
+      "Entity": "LPL Financial"
+    },
+    {
+      "Name": ".lplfinancial",
+      "Entity": "LPL Financial"
+    },
+    {
+      "Name": ".lundbeck",
+      "Entity": "Lundbeck"
+    },
+    {
+      "Name": ".maif",
+      "Entity": "Mutuelle Assurance Instituteur France (MAIF)"
+    },
+    {
+      "Name": ".man",
+      "Entity": "MAN"
+    },
+    {
+      "Name": ".marriott",
+      "Entity": "Marriott International"
+    },
+    {
+      "Name": ".mattel",
+      "Entity": "Mattel"
+    },
+    {
+      "Name": ".mckinsey",
+      "Entity": "McKinsey & Company"
+    },
+    {
+      "Name": ".microsoft",
+      "Entity": "Microsoft"
+    },
+    {
+      "Name": ".mit",
+      "Entity": "Massachusetts Institute of Technology"
+    },
+    {
+      "Name": ".mitsubishi",
+      "Entity": "Mitsubishi Corporation"
+    },
+    {
+      "Name": ".mlb",
+      "Entity": "MLB Advanced Media"
+    },
+    {
+      "Name": ".mma",
+      "Entity": "MMA IARD"
+    },
+    {
+      "Name": ".moto",
+      "Entity": "Motorola"
+    },
+    {
+      "Name": ".msd",
+      "Entity": "MSD Registry Holdings, Inc."
+    },
+    {
+      "Name": ".mtn",
+      "Entity": "MTN"
+    },
+    {
+      "Name": ".mtr",
+      "Entity": "MTR Corporation"
+    },
+    {
+      "Name": ".nba",
+      "Entity": "National Basketball Association"
+    },
+    {
+      "Name": ".nec",
+      "Entity": "NEC"
+    },
+    {
+      "Name": ".netflix",
+      "Entity": "Netflix"
+    },
+    {
+      "Name": ".nfl",
+      "Entity": "National Football League"
+    },
+    {
+      "Name": ".nike",
+      "Entity": "Nike"
+    },
+    {
+      "Name": ".nikon",
+      "Entity": "Nikon"
+    },
+    {
+      "Name": ".nissan",
+      "Entity": "Nissan"
+    },
+    {
+      "Name": ".nissay",
+      "Entity": "Nippon Life"
+    },
+    {
+      "Name": ".nokia",
+      "Entity": "Nokia"
+    },
+    {
+      "Name": ".norton",
+      "Entity": "NortonLifeLock"
+    },
+    {
+      "Name": ".ntt",
+      "Entity": "Nippon Telegraph & Telephone"
+    },
+    {
+      "Name": ".obi",
+      "Entity": "OBI Group Holding SE & Co. KGaA"
+    },
+    {
+      "Name": ".office",
+      "Entity": "Microsoft (Microsoft Office)"
+    },
+    {
+      "Name": ".omega",
+      "Entity": "Swatch Group (Omega)"
+    },
+    {
+      "Name": ".oracle",
+      "Entity": "Oracle"
+    },
+    {
+      "Name": ".orange",
+      "Entity": "Orange"
+    },
+    {
+      "Name": ".panasonic",
+      "Entity": "Panasonic"
+    },
+    {
+      "Name": ".pccw",
+      "Entity": "PCCW"
+    },
+    {
+      "Name": ".pfizer",
+      "Entity": "Pfizer"
+    },
+    {
+      "Name": ".philips",
+      "Entity": "Philips"
+    },
+    {
+      "Name": ".pictet",
+      "Entity": "Pictet"
+    },
+    {
+      "Name": ".ping",
+      "Entity": "Ping"
+    },
+    {
+      "Name": ".pioneer",
+      "Entity": "Pioneer Corporation"
+    },
+    {
+      "Name": ".play",
+      "Entity": "Google (Google Play)"
+    },
+    {
+      "Name": ".playstation",
+      "Entity": "Sony (PlayStation)"
+    },
+    {
+      "Name": ".politie",
+      "Entity": "Politie Nederland"
+    },
+    {
+      "Name": ".progressive",
+      "Entity": "Progressive Corporation"
+    },
+    {
+      "Name": ".pru",
+      "Entity": "Prudential Financial"
+    },
+    {
+      "Name": ".prudential",
+      "Entity": "Prudential Financial"
+    },
+    {
+      "Name": ".quest",
+      "Entity": "Quest Software"
+    },
+    {
+      "Name": ".redstone",
+      "Entity": "Redstone Haute Couture Co"
+    },
+    {
+      "Name": ".reliance",
+      "Entity": "Reliance Industries"
+    },
+    {
+      "Name": ".rexroth",
+      "Entity": "Robert Bosch GmbH"
+    },
+    {
+      "Name": ".ricoh",
+      "Entity": "Ricoh"
+    },
+    {
+      "Name": ".rogers",
+      "Entity": "Rogers Communications"
+    },
+    {
+      "Name": ".rwe",
+      "Entity": "RWE"
+    },
+    {
+      "Name": ".safety",
+      "Entity": "Safety Registry Services, LLC."
+    },
+    {
+      "Name": ".sakura",
+      "Entity": "Sakura Internet[ja]"
+    },
+    {
+      "Name": ".samsung",
+      "Entity": "Samsung SDS"
+    },
+    {
+      "Name": ".sandvik",
+      "Entity": "Sandvik"
+    },
+    {
+      "Name": ".sanofi",
+      "Entity": "Sanofi"
+    },
+    {
+      "Name": ".saxo",
+      "Entity": "Saxo Bank"
+    },
+    {
+      "Name": ".sbi",
+      "Entity": "State Bank of India"
+    },
+    {
+      "Name": ".schaeffler",
+      "Entity": "Schaeffler Technologies"
+    },
+    {
+      "Name": ".schwarz",
+      "Entity": "Schwarz Gruppe"
+    },
+    {
+      "Name": ".seat",
+      "Entity": "SEAT"
+    },
+    {
+      "Name": ".sener",
+      "Entity": "Sener Ingeniería y Sistemas, S.A."
+    },
+    {
+      "Name": ".sew",
+      "Entity": "SEW Eurodrive"
+    },
+    {
+      "Name": ".seven",
+      "Entity": "Seven West Media"
+    },
+    {
+      "Name": ".sfr",
+      "Entity": "SFR"
+    },
+    {
+      "Name": ".shangrila",
+      "Entity": "Shangri-La Hotels and Resorts"
+    },
+    {
+      "Name": ".sharp",
+      "Entity": "Sharp Corporation"
+    },
+    {
+      "Name": ".shaw",
+      "Entity": "Shaw Cablesystems G.P."
+    },
+    {
+      "Name": ".shell",
+      "Entity": "Shell"
+    },
+    {
+      "Name": ".sina",
+      "Entity": "Sina Corp"
+    },
+    {
+      "Name": ".sky",
+      "Entity": "Sky Group"
+    },
+    {
+      "Name": ".skype",
+      "Entity": "Microsoft (Skype)"
+    },
+    {
+      "Name": ".smart",
+      "Entity": "Smart Communications"
+    },
+    {
+      "Name": ".sncf",
+      "Entity": "SNCF"
+    },
+    {
+      "Name": ".softbank",
+      "Entity": "SoftBank"
+    },
+    {
+      "Name": ".sony",
+      "Entity": "Sony"
+    },
+    {
+      "Name": ".stada",
+      "Entity": "Stada Arzneimittel"
+    },
+    {
+      "Name": ".staples",
+      "Entity": "Staples"
+    },
+    {
+      "Name": ".star",
+      "Entity": "Disney Star"
+    },
+    {
+      "Name": ".statebank",
+      "Entity": "State Bank of India"
+    },
+    {
+      "Name": ".statefarm",
+      "Entity": "State Farm"
+    },
+    {
+      "Name": ".stc",
+      "Entity": "Saudi Telecom Company"
+    },
+    {
+      "Name": ".stcgroup",
+      "Entity": "Saudi Telecom Company"
+    },
+    {
+      "Name": ".swatch",
+      "Entity": "Swatch Group"
+    },
+    {
+      "Name": ".taobao",
+      "Entity": "Alibaba Group (Taobao)"
+    },
+    {
+      "Name": ".target",
+      "Entity": "Target"
+    },
+    {
+      "Name": ".tatamotors",
+      "Entity": "Tata Motors"
+    },
+    {
+      "Name": ".tdk",
+      "Entity": "TDK"
+    },
+    {
+      "Name": ".temasek",
+      "Entity": "Temasek Holdings"
+    },
+    {
+      "Name": ".teva",
+      "Entity": "Teva Pharmaceuticals"
+    },
+    {
+      "Name": ".tjx",
+      "Entity": "TJX Companies"
+    },
+    {
+      "Name": ".toray",
+      "Entity": "Toray Industries"
+    },
+    {
+      "Name": ".toshiba",
+      "Entity": "Toshiba"
+    },
+    {
+      "Name": ".total",
+      "Entity": "Total"
+    },
+    {
+      "Name": ".toyota",
+      "Entity": "Toyota"
+    },
+    {
+      "Name": ".travelers",
+      "Entity": "Travelers TLD, LLC (The Travelers Companies)"
+    },
+    {
+      "Name": ".tvs",
+      "Entity": "T V Sundram Iyengar & Sons Private Limited"
+    },
+    {
+      "Name": ".ubs",
+      "Entity": "UBS"
+    },
+    {
+      "Name": ".unicom",
+      "Entity": "China Unicom"
+    },
+    {
+      "Name": ".ups",
+      "Entity": "United Parcel Service"
+    },
+    {
+      "Name": ".vanguard",
+      "Entity": "Vanguard Group"
+    },
+    {
+      "Name": ".verisign",
+      "Entity": "VeriSign"
+    },
+    {
+      "Name": ".vig",
+      "Entity": "Vienna Insurance Group"
+    },
+    {
+      "Name": ".viking",
+      "Entity": "Viking River Cruises"
+    },
+    {
+      "Name": ".virgin",
+      "Entity": "Virgin Group"
+    },
+    {
+      "Name": ".visa",
+      "Entity": "Visa"
+    },
+    {
+      "Name": ".vivo",
+      "Entity": "Telefônica Brasil"
+    },
+    {
+      "Name": ".volvo",
+      "Entity": "Volvo"
+    },
+    {
+      "Name": ".walmart",
+      "Entity": "Walmart"
+    },
+    {
+      "Name": ".walter",
+      "Entity": "Sandvik"
+    },
+    {
+      "Name": ".weatherchannel",
+      "Entity": "IBM (The Weather Company)"
+    },
+    {
+      "Name": ".weber",
+      "Entity": "Saint-Gobain"
+    },
+    {
+      "Name": ".weir",
+      "Entity": "Weir Group"
+    },
+    {
+      "Name": ".windows",
+      "Entity": "Microsoft (Microsoft Windows)"
+    },
+    {
+      "Name": ".wolterskluwer",
+      "Entity": "Wolters Kluwer"
+    },
+    {
+      "Name": ".woodside",
+      "Entity": "Woodside Petroleum"
+    },
+    {
+      "Name": ".xbox",
+      "Entity": "Microsoft Xbox"
+    },
+    {
+      "Name": ".xerox",
+      "Entity": "Fuji Xerox"
+    },
+    {
+      "Name": ".yahoo",
+      "Entity": "Yahoo!"
+    },
+    {
+      "Name": ".yamaxun",
+      "Entity": "Amazon (Amazon China)"
+    },
+    {
+      "Name": ".yodobashi",
+      "Entity": "Yodobashi Camera"
+    },
+    {
+      "Name": ".zappos",
+      "Entity": "Amazon (Zappos)"
+    },
+    {
+      "Name": ".zara",
+      "Entity": "Inditex (Zara)"
+    },
+    {
+      "Name": ".abarth",
+      "Entity": "Fiat Chrysler Automobiles (Abarth)"
+    },
+    {
+      "Name": ".aigo",
+      "Entity": "Aigo"
+    },
+    {
+      "Name": ".alfaromeo",
+      "Entity": "Fiat Chrysler Automobiles (Alfa Romeo)"
+    },
+    {
+      "Name": ".bananarepublic",
+      "Entity": "Gap (Banana Republic)"
+    },
+    {
+      "Name": ".blanco",
+      "Entity": "BLANCO GmbH + Co KG"
+    },
+    {
+      "Name": ".bugatti",
+      "Entity": "Bugatti"
+    },
+    {
+      "Name": ".cartier",
+      "Entity": "Richemont DNS"
+    },
+    {
+      "Name": ".cbs",
+      "Entity": "CBS"
+    },
+    {
+      "Name": ".chrysler",
+      "Entity": "Chrysler"
+    },
+    {
+      "Name": ".comcast",
+      "Entity": "Comcast"
+    },
+    {
+      "Name": ".dodge",
+      "Entity": "Chrysler (Dodge)"
+    },
+    {
+      "Name": ".esurance",
+      "Entity": "Esurance"
+    },
+    {
+      "Name": ".etisalat",
+      "Entity": "Etisalat"
+    },
+    {
+      "Name": ".fiat",
+      "Entity": "Fiat Chrysler Automobiles"
+    },
+    {
+      "Name": ".fujixerox",
+      "Entity": "Fuji Xerox"
+    },
+    {
+      "Name": ".guardian",
+      "Entity": "Guardian Life Insurance Company of America"
+    },
+    {
+      "Name": ".honeywell",
+      "Entity": "Honeywell"
+    },
+    {
+      "Name": ".intel",
+      "Entity": "Intel"
+    },
+    {
+      "Name": ".iselect",
+      "Entity": "iSelect"
+    },
+    {
+      "Name": ".iveco",
+      "Entity": "CNH Industrial (Iveco)"
+    },
+    {
+      "Name": ".jcp",
+      "Entity": "JCP Media"
+    },
+    {
+      "Name": ".kinder",
+      "Entity": "Ferrero (Kinder Surprise)"
+    },
+    {
+      "Name": ".ladbrokes",
+      "Entity": "Ladbrokes"
+    },
+    {
+      "Name": ".lancia",
+      "Entity": "Fiat Chrysler Automobiles (Lancia)"
+    },
+    {
+      "Name": ".lancome",
+      "Entity": "L'Oréal"
+    },
+    {
+      "Name": ".liaison",
+      "Entity": "Liaison Technologies"
+    },
+    {
+      "Name": ".linde",
+      "Entity": "Linde"
+    },
+    {
+      "Name": ".lixil",
+      "Entity": "Lixil Group"
+    },
+    {
+      "Name": ".lupin",
+      "Entity": "Lupin Limited"
+    },
+    {
+      "Name": ".macys",
+      "Entity": "Macy's"
+    },
+    {
+      "Name": ".maserati",
+      "Entity": "Fiat Chrysler Automobiles (Maserati)"
+    },
+    {
+      "Name": ".metlife",
+      "Entity": "MetLife"
+    },
+    {
+      "Name": ".movistar",
+      "Entity": "Telefónica (Movistar)"
+    },
+    {
+      "Name": ".mutual",
+      "Entity": "Northwestern Mutual"
+    },
+    {
+      "Name": ".nadex",
+      "Entity": "Nadex"
+    },
+    {
+      "Name": ".nationwide",
+      "Entity": "Nationwide Mutual Insurance Company"
+    },
+    {
+      "Name": ".natura",
+      "Entity": "Natura & Co"
+    },
+    {
+      "Name": ".newholland",
+      "Entity": "CNH Industrial (New Holland Agriculture, New Holland Construction)"
+    },
+    {
+      "Name": ".northwesternmutual",
+      "Entity": "Northwestern Mutual"
+    },
+    {
+      "Name": ".qvc",
+      "Entity": "QVC"
+    },
+    {
+      "Name": ".rmit",
+      "Entity": "Royal Melbourne Institute of Technology"
+    },
+    {
+      "Name": ".rocher",
+      "Entity": "Ferrero (Ferrero Rocher)"
+    },
+    {
+      "Name": ".scjohnson",
+      "Entity": "S. C. Johnson & Son"
+    },
+    {
+      "Name": ".scor",
+      "Entity": "SCOR"
+    },
+    {
+      "Name": ".ses",
+      "Entity": "SES"
+    },
+    {
+      "Name": ".shriram",
+      "Entity": "Shriram Capital"
+    },
+    {
+      "Name": ".starhub",
+      "Entity": "StarHub"
+    },
+    {
+      "Name": ".statoil",
+      "Entity": "Statoil"
+    },
+    {
+      "Name": ".swiftcover",
+      "Entity": "Swiftcover"
+    },
+    {
+      "Name": ".symantec",
+      "Entity": "Gen Digital"
+    },
+    {
+      "Name": ".telecity",
+      "Entity": "TelecityGroup"
+    },
+    {
+      "Name": ".telefonica",
+      "Entity": "Telefónica"
+    },
+    {
+      "Name": ".tiffany",
+      "Entity": "Tiffany & Co."
+    },
+    {
+      "Name": ".travelchannel",
+      "Entity": "Lifestyle Domain Holdings, Inc. (Travel Channel)"
+    },
+    {
+      "Name": ".vista",
+      "Entity": "Vistaprint"
+    },
+    {
+      "Name": ".vistaprint",
+      "Entity": "Vistaprint"
+    },
+    {
+      "Name": ".volkswagen",
+      "Entity": "Volkswagen Group of America"
+    },
+    {
+      "Name": ".xfinity",
+      "Entity": "Comcast"
+    },
+    {
+      "Name": ".zippo",
+      "Entity": "Zippo"
+    },
+    {
+      "Name": ".allfinanz",
+      "Entity": "Allfinanz Deutsche Vermögensberatung Aktiengesellschaft"
+    },
+    {
+      "Name": ".amazon",
+      "Entity": "Amazon"
+    },
+    {
+      "Name": ".android",
+      "Entity": "Google (Android)"
+    },
+    {
+      "Name": ".aquarelle",
+      "Entity": "Aquarelle.com Group"
+    },
+    {
+      "Name": ".axa",
+      "Entity": "Axa"
+    },
+    {
+      "Name": ".barclaycard",
+      "Entity": "Barclays"
+    },
+    {
+      "Name": ".barclays",
+      "Entity": "Barclays"
+    },
+    {
+      "Name": ".basketball",
+      "Entity": "FIBA"
+    },
+    {
+      "Name": ".bloomberg",
+      "Entity": "Bloomberg"
+    },
+    {
+      "Name": ".bmw",
+      "Entity": "BMW"
+    },
+    {
+      "Name": ".bnl",
+      "Entity": "Banca Nazionale del Lavoro"
+    },
+    {
+      "Name": ".bnpparibas",
+      "Entity": "BNP Paribas"
+    },
+    {
+      "Name": ".bond",
+      "Entity": "Bond University"
+    },
+    {
+      "Name": ".bradesco",
+      "Entity": "Bradesco"
+    },
+    {
+      "Name": ".cal",
+      "Entity": "Google (Google Calendar)"
+    },
+    {
+      "Name": ".caravan",
+      "Entity": "Caravan International"
+    },
+    {
+      "Name": ".cern",
+      "Entity": "CERN"
+    },
+    {
+      "Name": ".chrome",
+      "Entity": "Google (Google Chrome)"
+    },
+    {
+      "Name": ".citic",
+      "Entity": "CITIC Group"
+    },
+    {
+      "Name": ".crs",
+      "Entity": "Federated Co-operatives\n(Co-Operative Retailing System)"
+    },
+    {
+      "Name": ".csc",
+      "Entity": "DXC Technology"
+    },
+    {
+      "Name": ".cuisinella",
+      "Entity": "Société Alsacienne de Meubles (Cuisinella)"
+    },
+    {
+      "Name": ".dnp",
+      "Entity": "Dai Nippon Printing"
+    },
+    {
+      "Name": ".dvag",
+      "Entity": "Deutsche Vermögensberatung"
+    },
+    {
+      "Name": ".edeka",
+      "Entity": "Edeka"
+    },
+    {
+      "Name": ".emerck",
+      "Entity": "Merck Group"
+    },
+    {
+      "Name": ".everbank",
+      "Entity": "EverBank"
+    },
+    {
+      "Name": ".firmdale",
+      "Entity": "Firmdale Holdings"
+    },
+    {
+      "Name": ".flsmidth",
+      "Entity": "FLSmidth"
+    },
+    {
+      "Name": ".frogans",
+      "Entity": "OP3FT"
+    },
+    {
+      "Name": ".gbiz",
+      "Entity": "Google"
+    },
+    {
+      "Name": ".gle",
+      "Entity": "Google"
+    },
+    {
+      "Name": ".globo",
+      "Entity": "Grupo Globo"
+    },
+    {
+      "Name": ".gmail",
+      "Entity": "Google (Gmail)"
+    },
+    {
+      "Name": ".gmo",
+      "Entity": "GMO Internet"
+    },
+    {
+      "Name": ".gmx",
+      "Entity": "1&1 Mail & Media (GMX, Global Message Exchange)"
+    },
+    {
+      "Name": ".goog",
+      "Entity": "Google"
+    },
+    {
+      "Name": ".google",
+      "Entity": "Google"
+    },
+    {
+      "Name": ".hsbc",
+      "Entity": "HSBC"
+    },
+    {
+      "Name": ".ibm",
+      "Entity": "IBM"
+    },
+    {
+      "Name": ".jio",
+      "Entity": "Reliance Industries (Jio)"
+    },
+    {
+      "Name": ".kred",
+      "Entity": "KredTLD"
+    },
+    {
+      "Name": ".lacaixa",
+      "Entity": "Caixa d’Estalvis i Pensions de Barcelona"
+    },
+    {
+      "Name": ".latrobe",
+      "Entity": "La Trobe University"
+    },
+    {
+      "Name": ".lds",
+      "Entity": "The Church of Jesus Christ of Latter-day Saints (LDS Church)"
+    },
+    {
+      "Name": ".leclerc",
+      "Entity": "E.Leclerc"
+    },
+    {
+      "Name": ".mango",
+      "Entity": "Mango"
+    },
+    {
+      "Name": ".mini",
+      "Entity": "BMW (Mini)"
+    },
+    {
+      "Name": ".monash",
+      "Entity": "Monash University"
+    },
+    {
+      "Name": ".mormon",
+      "Entity": "The Church of Jesus Christ of Latter-day Saints (LDS Church)"
+    },
+    {
+      "Name": ".neustar",
+      "Entity": "Neustar"
+    },
+    {
+      "Name": ".nhk",
+      "Entity": "NHK"
+    },
+    {
+      "Name": ".nico",
+      "Entity": "Dwango (Niconico)"
+    },
+    {
+      "Name": ".nra",
+      "Entity": "National Rifle Association of America"
+    },
+    {
+      "Name": ".otsuka",
+      "Entity": "Otsuka Pharmaceutical"
+    },
+    {
+      "Name": ".ovh",
+      "Entity": "OVH"
+    },
+    {
+      "Name": ".piaget",
+      "Entity": "Piaget"
+    },
+    {
+      "Name": ".pohl",
+      "Entity": "Deutsche Vermögensberatung\n(founder Reinfried Pohl)"
+    },
+    {
+      "Name": ".praxi",
+      "Entity": "Praxi"
+    },
+    {
+      "Name": ".prod",
+      "Entity": "Google (products)"
+    },
+    {
+      "Name": ".pwc",
+      "Entity": "PwC"
+    },
+    {
+      "Name": ".ril",
+      "Entity": "Reliance Industries"
+    },
+    {
+      "Name": ".sandvikcoromant",
+      "Entity": "Sandvik Coromant"
+    },
+    {
+      "Name": ".sap",
+      "Entity": "SAP"
+    },
+    {
+      "Name": ".sbs",
+      "Entity": "Special Broadcasting Service"
+    },
+    {
+      "Name": ".sca",
+      "Entity": "Svenska Cellulosa"
+    },
+    {
+      "Name": ".scb",
+      "Entity": "Siam Commercial Bank"
+    },
+    {
+      "Name": ".schmidt",
+      "Entity": "Société Alsacienne de Meubles (Cuisines Schmidt)"
+    },
+    {
+      "Name": ".seek",
+      "Entity": "Seek"
+    },
+    {
+      "Name": ".sohu",
+      "Entity": "Sohu"
+    },
+    {
+      "Name": ".spiegel",
+      "Entity": "Der Spiegel"
+    },
+    {
+      "Name": ".suzuki",
+      "Entity": "Suzuki"
+    },
+    {
+      "Name": ".tui",
+      "Entity": "TUI"
+    },
+    {
+      "Name": ".uol",
+      "Entity": "Universo Online"
+    },
+    {
+      "Name": ".williamhill",
+      "Entity": "William Hill"
+    },
+    {
+      "Name": ".wme",
+      "Entity": "Endeavor"
+    },
+    {
+      "Name": ".wtc",
+      "Entity": "World Trade Centers Association"
+    },
+    {
+      "Name": ".yandex",
+      "Entity": "Yandex"
+    },
+    {
+      "Name": ".youtube",
+      "Entity": "Google (YouTube)"
+    },
+    {
+      "Name": ".example",
+      "Entity": ""
+    },
+    {
+      "Name": ".internal",
+      "Entity": ""
+    },
+    {
+      "Name": ".invalid",
+      "Entity": ""
+    },
+    {
+      "Name": ".local",
+      "Entity": ""
+    },
+    {
+      "Name": ".localhost",
+      "Entity": ""
+    },
+    {
+      "Name": ".onion",
+      "Entity": ""
+    },
+    {
+      "Name": ".test",
+      "Entity": ""
+    },
+    {
+      "Name": ".home.arpa",
+      "Entity": "RFC 8375"
+    },
+    {
+      "Name": ".internal",
+      "Entity": "RFC 6762 Appendix G"
+    },
+    {
+      "Name": ".intranet",
+      "Entity": "RFC 6762 Appendix G"
+    },
+    {
+      "Name": ".private",
+      "Entity": "RFC 6762 Appendix G"
+    },
+    {
+      "Name": ".corp",
+      "Entity": "RFC 6762 Appendix G"
+    },
+    {
+      "Name": ".home",
+      "Entity": "RFC 6762 Appendix G"
+    },
+    {
+      "Name": ".lan",
+      "Entity": "RFC 6762 Appendix G"
+    },
+    {
+      "Name": ".eth",
+      "Entity": "Ethereum"
+    },
+    {
+      "Name": ".crypto, .zil",
+      "Entity": "Ethereum, Zilliqa"
+    },
+    {
+      "Name": ".bit",
+      "Entity": "Namecoin"
+    },
+    {
+      "Name": ".xlm",
+      "Entity": "Stellar"
+    },
+    {
+      "Name": ".earth",
+      "Entity": "Individuals or businesses with a worldwide focus"
+    },
+    {
+      "Name": ".eat",
+      "Entity": "restaurants and foodies"
+    },
+    {
+      "Name": ".eco",
+      "Entity": "Sustainability minded companies, non-profits and professionals."
+    },
+    {
+      "Name": ".education",
+      "Entity": "Colleges & universities, public schools, PTAs & other school groups, education research organizations, any organization focused on educating its audience"
+    },
+    {
+      "Name": ".email",
+      "Entity": "Advertising/Marketing/PR/Design agencies, email marketing experts, CRM and marketing technology specialists, anyone who wants a memorable email address"
+    },
+    {
+      "Name": ".energy",
+      "Entity": "Electrical, mechanical, chemical, nuclear & thermal energy producers, solar, wind, hydro, bio & other sustainable alternative energy producers, battery manufacturers & oil industry R&D, energy conservation organizations, energy food & drink manufacturers"
+    },
+    {
+      "Name": ".engineer",
+      "Entity": "Computer and software engineering companies, civil, electrical, mechanical, and architectural engineering companies, environmental, chemical, geotechnical, and bio engineering companies, engineer training or educational institutions, railroad engineers"
+    },
+    {
+      "Name": ".engineering",
+      "Entity": "Computer and software engineering companies, civil, electrical, mechanical, and architectural engineering companies, environmental, chemical, geotechnical, and bio engineering companies, engineer training or educational institutions, railroad engineers"
+    },
+    {
+      "Name": ".edeka",
+      "Entity": "edeka firms"
+    },
+    {
+      "Name": ".entertainment",
+      "Entity": "Ticket outlets, travel sites & local tourist sites, performance halls, theaters, & music venues, anyone in the entertainment industry, celebrity news sites"
+    },
+    {
+      "Name": ".enterprises",
+      "Entity": "Entrepreneurs, startups, parent & holding companies, enterprise SaaS solutions & tech services"
+    },
+    {
+      "Name": ".equipment",
+      "Entity": "Home improvement stores, construction equipment rentals, construction equipment sales, sporting goods stores"
+    },
+    {
+      "Name": ".esq",
+      "Entity": "lawyers, law firms, legal professionals"
+    },
+    {
+      "Name": ".estate",
+      "Entity": "Estate sale management & appraisal services, estate planners & lawyers, real estate agents & brokers"
+    },
+    {
+      "Name": ".events",
+      "Entity": "Event planners, sports & gaming agencies/sites, ticket sale/resale sites, city guides & community centers, performance halls, music clubs/bars"
+    },
+    {
+      "Name": ".exchange",
+      "Entity": "Foreign currency exchanges, stock brokers, investment fund traders, ETF distributors, brokers, & dealers"
+    },
+    {
+      "Name": ".expert",
+      "Entity": "Home services providers, online review sites, skilled worker databases, freelancers, consultants, & subject matter experts"
+    },
+    {
+      "Name": ".exposed",
+      "Entity": "Tabloid sites, celebrity romance blog, TV spoiler sites, sites that host leaked documents, investigative journalism sites"
+    },
+    {
+      "Name": ".express",
+      "Entity": "Transportation services, messenger services, delivery & shipping services, direct-to-consumer stores"
+    },
+    {
+      "Name": ".fail",
+      "Entity": "Online meme aggregators, humor websites, video sites"
+    },
+    {
+      "Name": ".faith",
+      "Entity": "religion and churches"
+    },
+    {
+      "Name": ".family",
+      "Entity": "Family-focused travel sites, blogs about family-friendly activities & games, family history sites, photo sites, obstetricians & family practice doctors"
+    },
+    {
+      "Name": ".fan",
+      "Entity": "Fan sites, current events & gossip sites, sport blogs and forums, personal & business sites about niche topics"
+    },
+    {
+      "Name": ".fans",
+      "Entity": "general"
+    },
+    {
+      "Name": ".farm",
+      "Entity": "Real estate brokers/agents, farming services & equipment dealers, farmers & ranchers, property managers, health food distributors, cryptocurrency farmers"
+    },
+    {
+      "Name": ".fashion",
+      "Entity": "clothing industry"
+    },
+    {
+      "Name": ".fast",
+      "Entity": ""
+    },
+    {
+      "Name": ".feedback",
+      "Entity": "feedback and reviews"
+    },
+    {
+      "Name": ".fiat",
+      "Entity": ""
+    },
+    {
+      "Name": ".film",
+      "Entity": "films"
+    },
+    {
+      "Name": ".final",
+      "Entity": "final versions of anything"
+    },
+    {
+      "Name": ".finance",
+      "Entity": "Investment services, banks & financial institutes, credit counselors & financial planners, accounting firms, lenders"
+    },
+    {
+      "Name": ".financial",
+      "Entity": "Investment services, banks & financial institutions, credit counselors & financial planners, accounting firms, lenders"
+    },
+    {
+      "Name": ".fire",
+      "Entity": ""
+    },
+    {
+      "Name": ".fish",
+      "Entity": "Seafood markets, restaurants & suppliers, sport fishing & fly fishing enthusiasts, fishing gear, tackle, & product manufacturers, travel outfitters & fishing guide companies, aquariums, pet & fish supply stores, marine biology programs & conservation organizations"
+    },
+    {
+      "Name": ".fishing",
+      "Entity": "fishing businesses, sports, and interests"
+    },
+    {
+      "Name": ".fit",
+      "Entity": "Fitness and exercise"
+    },
+    {
+      "Name": ".fitness",
+      "Entity": "Gyms, athletic clubs & family health organizations, personal trainers, weight loss, health & wellness clinics, health & exercise blogs, fitness competition & events companies"
+    },
+    {
+      "Name": ".flights",
+      "Entity": "Airline-related products or services, helicopter rides, skydiving, & hang gliding, travel agencies & travel services, private pilots, airport transportation"
+    },
+    {
+      "Name": ".florist",
+      "Entity": "Florists, flower delivery services, floral designers, flower seed suppliers"
+    },
+    {
+      "Name": ".flowers",
+      "Entity": "florists and gardens"
+    },
+    {
+      "Name": ".fly",
+      "Entity": "travel"
+    },
+    {
+      "Name": ".foo",
+      "Entity": "programming and development"
+    },
+    {
+      "Name": ".food",
+      "Entity": ""
+    },
+    {
+      "Name": ".foodnetwork",
+      "Entity": ""
+    },
+    {
+      "Name": ".football",
+      "Entity": "Professional & amateur football & soccer teams, football clothing, gear & fan merchandise, football equipment manufacturers, football coaches & players"
+    },
+    {
+      "Name": ".forsale",
+      "Entity": "Individual real estate brokers and brokerages, wholesalers and retailers across many product categories, discount, flash sale and deal websites, auction sites and individuals selling items they no longer need"
+    },
+    {
+      "Name": ".forum",
+      "Entity": "forums"
+    },
+    {
+      "Name": ".foundation",
+      "Entity": "Charitable organizations, public school foundations, other philanthropic organizations & foundations"
+    },
+    {
+      "Name": ".free",
+      "Entity": "sales"
+    },
+    {
+      "Name": ".frontdoor",
+      "Entity": ""
+    },
+    {
+      "Name": ".fun",
+      "Entity": ""
+    },
+    {
+      "Name": ".fund",
+      "Entity": "Investment services, banks & financial institutions, credit counselors & financial planners, lenders"
+    },
+    {
+      "Name": ".furniture",
+      "Entity": "Home décor and furnishing stores, department stores, home designers, vintage stores, antique dealers"
+    },
+    {
+      "Name": ".fyi",
+      "Entity": "\"\"for your information\"\""
+    },
+    {
+      "Name": ".gallery",
+      "Entity": "Galleries, professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online"
+    },
+    {
+      "Name": ".game",
+      "Entity": "gaming"
+    },
+    {
+      "Name": ".games",
+      "Entity": "Gaming sites, forums & reviews, online or brick & mortar game stores/clubs, sports events, clubs—professional & recreational, casinos"
+    },
+    {
+      "Name": ".garden",
+      "Entity": "gardening"
+    },
+    {
+      "Name": ".gay",
+      "Entity": "Individuals in the lgbt community and/ or supportive organisations and people"
+    },
+    {
+      "Name": ".gdn",
+      "Entity": "general"
+    },
+    {
+      "Name": ".gift",
+      "Entity": "gift-giving"
+    },
+    {
+      "Name": ".gifts",
+      "Entity": "Gift buyers, discount sites, corporate HR departments, bargain hunters"
+    },
+    {
+      "Name": ".gives",
+      "Entity": "Philanthropic organizations and foundations, charities, nonprofits, corporate giving initiatives, volunteer organizations"
+    },
+    {
+      "Name": ".glass",
+      "Entity": "Glass & glass repair shops, glass departments within home supply stores, contractors, windshield repair & auto glass businesses, DIYers/artists"
+    },
+    {
+      "Name": ".gle",
+      "Entity": "Google abbreviations"
+    },
+    {
+      "Name": ".global",
+      "Entity": "general, companies or individuals with a global focus or presence"
+    },
+    {
+      "Name": ".gmbh",
+      "Entity": "German limited liability companies"
+    },
+    {
+      "Name": ".gold",
+      "Entity": "Jewelers, gold traders and dealers, coin sellers and traders, trophy and awards shops"
+    },
+    {
+      "Name": ".golf",
+      "Entity": "Professional & amateur golf organizations, golf courses, equipment suppliers & manufacturers, golf travel & event companies, golf players, enthusiasts & spectators, sports networks"
+    },
+    {
+      "Name": ".google",
+      "Entity": "Google"
+    },
+    {
+      "Name": ".gop",
+      "Entity": "Republican Party politics"
+    },
+    {
+      "Name": ".graphics",
+      "Entity": "Web design firms, freelance designers, graphic artists"
+    },
+    {
+      "Name": ".green",
+      "Entity": "the environmentally-focused"
+    },
+    {
+      "Name": ".gripe",
+      "Entity": "Online complaint sites, online forums, customer service providers, feedback sites, blogs about scams"
+    },
+    {
+      "Name": ".grocery",
+      "Entity": ""
+    },
+    {
+      "Name": ".group",
+      "Entity": "Groups based on hobbies or interests (running, crafts, gaming), group-based businesses (medical practices, law firms, financial advisors), professional associations, support groups"
+    },
+    {
+      "Name": ".guide",
+      "Entity": "City resource sites for locals and travelers, travel writers & bloggers, local reviews websites, tourist attractions & guides, outdoor adventure companies"
+    },
+    {
+      "Name": ".guitars",
+      "Entity": "Guitars"
+    },
+    {
+      "Name": ".guru",
+      "Entity": "Mindfulness & yoga practices, spiritual leadership sites, any training program, work-for-hire sites, freelancers, consultants, & subject matter experts"
+    },
+    {
+      "Name": ".hair",
+      "Entity": "haircare products and services"
+    },
+    {
+      "Name": ".hangout",
+      "Entity": ""
+    },
+    {
+      "Name": ".hamburg",
+      "Entity": "Companies, organizations and private individuals with a connection to the Free and Hanseatic City of Hamburg"
+    },
+    {
+      "Name": ".haus",
+      "Entity": "German housing and real estate"
+    },
+    {
+      "Name": ".health",
+      "Entity": "health and related topics"
+    },
+    {
+      "Name": ".healthcare",
+      "Entity": "Primary/secondary care physicians, hospitals & clinics, healthcare insurance providers & brokers, company HR/benefits departments"
+    },
+    {
+      "Name": ".help",
+      "Entity": "help sites"
+    },
+    {
+      "Name": ".here",
+      "Entity": "generic geographic"
+    },
+    {
+      "Name": ".hiphop",
+      "Entity": "Hip hop culture"
+    },
+    {
+      "Name": ".hiv",
+      "Entity": "AIDS and HIV awareness"
+    },
+    {
+      "Name": ".hockey",
+      "Entity": "Sports media, sporting goods stores & hockey equipment suppliers, professional, minor league & amateur hockey teams, hockey fans, fantasy leagues, sponsors, coaches & referees"
+    },
+    {
+      "Name": ".holdings",
+      "Entity": "Holding companies, private equity firms, real estate developers"
+    },
+    {
+      "Name": ".holiday",
+      "Entity": "Airline-related products or services, travel agencies, resources & services, travel writers & bloggers, city guides & resource sites, hotels, hostels, B&Bs, lodging"
+    },
+    {
+      "Name": ".homegoods",
+      "Entity": ""
+    },
+    {
+      "Name": ".homes",
+      "Entity": "real estate professionals"
+    },
+    {
+      "Name": ".homesense",
+      "Entity": ""
+    },
+    {
+      "Name": ".horse",
+      "Entity": "horse-related businesses and interest"
+    },
+    {
+      "Name": ".hospital",
+      "Entity": "Hospitals & clinics, healthcare providers, medical, dental, or vision specialists, insurance providers"
+    },
+    {
+      "Name": ".host",
+      "Entity": "network companies"
+    },
+    {
+      "Name": ".hosting",
+      "Entity": ""
+    },
+    {
+      "Name": ".hot",
+      "Entity": ""
+    },
+    {
+      "Name": ".hotels",
+      "Entity": ""
+    },
+    {
+      "Name": ".house",
+      "Entity": "Real estate brokers/agents, mortgage companies, home builders, construction/home improvement suppliers, home improvement sites & blogs"
+    },
+    {
+      "Name": ".how",
+      "Entity": "how-to guides"
+    },
+    {
+      "Name": ".eu",
+      "Entity": "EU, European Union"
+    },
+    {
+      "Name": ".amsterdam",
+      "Entity": "Amsterdam, Netherlands"
+    },
+    {
+      "Name": ".bar",
+      "Entity": "Bar, Montenegro"
+    },
+    {
+      "Name": ".brussels",
+      "Entity": "Brussels, Belgium"
+    },
+    {
+      "Name": ".cymru",
+      "Entity": "Wales, United Kingdom"
+    },
+    {
+      "Name": ".wales",
+      "Entity": "Wales, United Kingdom"
+    },
+    {
+      "Name": ".frl",
+      "Entity": "Friesland, Netherlands"
+    },
+    {
+      "Name": ".gent",
+      "Entity": "Ghent, Belgium"
+    },
+    {
+      "Name": ".helsinki",
+      "Entity": "Helsinki, Finland"
+    },
+    {
+      "Name": ".irish",
+      "Entity": "Ireland; global Irish community"
+    },
+    {
+      "Name": ".ist",
+      "Entity": "İstanbul, Turkey"
+    },
+    {
+      "Name": ".istanbul",
+      "Entity": "İstanbul, Turkey"
+    },
+    {
+      "Name": ".london",
+      "Entity": "London, United Kingdom"
+    },
+    {
+      "Name": ".moscow[ru]",
+      "Entity": "Moscow, Russia"
+    },
+    {
+      "Name": ".scot",
+      "Entity": "Scotland, United Kingdom"
+    },
+    {
+      "Name": ".stockholm",
+      "Entity": "Stockholm, Sweden"
+    },
+    {
+      "Name": ".swiss",
+      "Entity": "Switzerland"
+    },
+    {
+      "Name": ".tatar",
+      "Entity": "Tatar peoples and places"
+    },
+    {
+      "Name": ".tirol",
+      "Entity": "Tyrol, Austria"
+    },
+    {
+      "Name": ".vlaanderen",
+      "Entity": "Flanders, Belgium"
+    },
+    {
+      "Name": ".wien",
+      "Entity": "Vienna, Austria"
+    },
+    {
+      "Name": ".zuerich",
+      "Entity": "Zurich, Switzerland"
+    },
+    {
+      "Name": ".su",
+      "Entity": "Soviet Union"
+    },
+    {
+      "Name": ".bcn",
+      "Entity": "Barcelona"
+    },
+    {
+      "Name": ".barcelona",
+      "Entity": "Barcelona"
+    },
+    {
+      "Name": ".cat",
+      "Entity": "Catalonia; Catalan language and culture"
+    },
+    {
+      "Name": ".eus",
+      "Entity": "Basque, Spain and France"
+    },
+    {
+      "Name": ".gal",
+      "Entity": "Galicia"
+    },
+    {
+      "Name": ".madrid",
+      "Entity": "Madrid"
+    },
+    {
+      "Name": ".bayern",
+      "Entity": "Bavaria"
+    },
+    {
+      "Name": ".berlin",
+      "Entity": "Berlin"
+    },
+    {
+      "Name": ".cologne",
+      "Entity": "Cologne"
+    },
+    {
+      "Name": ".koeln",
+      "Entity": "Cologne"
+    },
+    {
+      "Name": ".hamburg",
+      "Entity": "Hamburg"
+    },
+    {
+      "Name": ".nrw",
+      "Entity": "North Rhine-Westphalia"
+    },
+    {
+      "Name": ".ruhr",
+      "Entity": "Ruhr"
+    },
+    {
+      "Name": ".saarland",
+      "Entity": "Saarland"
+    },
+    {
+      "Name": ".alsace",
+      "Entity": "Alsace"
+    },
+    {
+      "Name": ".bzh",
+      "Entity": "Brittany; Breton language and culture"
+    },
+    {
+      "Name": ".corsica",
+      "Entity": "Corsica"
+    },
+    {
+      "Name": ".eus",
+      "Entity": "Basque, Spain and France"
+    },
+    {
+      "Name": ".paris",
+      "Entity": "Paris"
+    }
+  ]
+}
